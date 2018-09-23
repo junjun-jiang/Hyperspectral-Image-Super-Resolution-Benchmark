@@ -162,5 +162,10 @@ Super-resolution hyperspectral imaging with unknown blurring by low-rank and gro
 
 - A MAP-Based Approach for Hyperspectral Imagery Super-Resolution, TIP2018, Hasan Irmak et al.
 
+=============================================================================
+
+#### Databases
+[CAVE](http://www.cs.columbia.edu/CAVE/databases/multispectral/)
+[Harvard](http://vision.seas.harvard.edu/hyperspec/explore.html)
 
 
