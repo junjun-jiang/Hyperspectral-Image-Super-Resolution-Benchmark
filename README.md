@@ -1,5 +1,5 @@
 # Hyperspectral-Image-Super-Resolution-Benchmark
-A list of hyperspectral image super-solution resources collected by [[Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun)]. If you find that important resources are not included, please feel free to contact me.
+A list of hyperspectral image super-solution resources collected by [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun). If you find that important resources are not included, please feel free to contact me.
 
 According to whether or not to use auxiliary images (PAN image/RGB image/multispectral images), hyperspectral image super-solution techniques can be divided into two classes: hyperspectral image super-solution (fusion) and single hyperspectral image super-solution. The former could be roughly categorized as follows: 1) Bayesian based approaches, 2) Tensor based approaches, 3) Matrix factorization based approaches, and 4) Deep Learning based approaches. 
 
