@@ -109,7 +109,6 @@ According to whether or not to use auxiliary images (PAN image/RGB image/multisp
 [[PDF](https://arxiv.org/abs/1808.10072)]
 
 - Self-Similarity Constrained Sparse Representation for Hyperspectral Image Super-Resolution, TIP2108, X. Han et al.
-[[PDF](https://www.researchgate.net/publication/257879745_Hyperspectral_imagery_super-resolution_by_sparse_representation_and_spectral_regularization)]
 
 - Exploiting Clustering Manifold Structure for Hyperspectral Imagery Super-Resolution, TIP2018, L. Zhang et al.
  [[PDF](https://sites.google.com/site/leizhanghyperspectral/publications)]
@@ -120,7 +119,7 @@ According to whether or not to use auxiliary images (PAN image/RGB image/multisp
 ###### 4) Deep Learning based approaches:
 - Deep Residual Convolutional Neural Network for Hyperspectral Image Super-Resolution, ICIG2017, C. Wang et al.
 
-SSF-CNN: Spatial and Spectral Fusion with CNN for Hyperspectral Image Super-Resolution, ICIP2018, X. Han et al.
+- SSF-CNN: Spatial and Spectral Fusion with CNN for Hyperspectral Image Super-Resolution, ICIP2018, X. Han et al.
 
 - Deep Hyperspectral Image Sharpening, TNNLS2018, R. Dian et al.
 [[PDF](https://drive.google.com/open?id=1FIyVL9c8jlDY3heEZ57nGvpSDZc0mkeT)]
@@ -128,7 +127,7 @@ SSF-CNN: Spatial and Spectral Fusion with CNN for Hyperspectral Image Super-Reso
 
 
 - HSI-DeNet: Hyperspectral Image Restoration via Convolutional Neural Network, TGRS2018, Y. Chang et al.
-[[Code](http://www.escience.cn/people/changyi/index.html)]
+[[Web](http://www.escience.cn/people/changyi/index.html)]
 
 - Unsupervised Sparse Dirichlet-Net for Hyperspectral Image Super-Resolution, CVPR2018, Y. Qu et al.
 [[PDF](https://arxiv.org/abs/1804.05042)]
@@ -165,7 +164,7 @@ Super-resolution hyperspectral imaging with unknown blurring by low-rank and gro
 =============================================================================
 
 #### Databases
-[CAVE](http://www.cs.columbia.edu/CAVE/databases/multispectral/)
-[Harvard](http://vision.seas.harvard.edu/hyperspec/explore.html)
+- [CAVE](http://www.cs.columbia.edu/CAVE/databases/multispectral/)
+- [Harvard](http://vision.seas.harvard.edu/hyperspec/explore.html)
 
 
