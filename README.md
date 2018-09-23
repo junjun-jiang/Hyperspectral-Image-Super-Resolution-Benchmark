@@ -26,7 +26,7 @@ According to whether or not to use auxiliary images (PAN image/RGB image/multisp
 =============================================================================
 
 #### Hyperspectral image super-solution (fusion)
-###### Bayesian based approaches:
+###### 1) Bayesian based approaches:
 - Blind Image Fusion for Hyperspectral Imaging with the Directional Total Variation, Inverse Problems, 2018, Leon Bungert et al.
 [[PDF](https://arxiv.org/abs/1710.05705)]
 [[Code](https://github.com/mehrhardt/blind_remote_sensing)]
@@ -53,7 +53,7 @@ According to whether or not to use auxiliary images (PAN image/RGB image/multisp
 - Weighted Low-rank Tensor Recovery for Hyperspectral Image Restoration, arXiv2018, Yi Chang et al.
 [[PDF](https://arxiv.org/pdf/1709.00192.pdf)]
 
-###### Tensor based approaches:
+###### 2) Tensor based approaches:
 - Hyperspectral image superresolution via non-local sparse tensor factorization, CVPR2017, R. Dian et al.
 [[PDF](https://sites.google.com/site/leyuanfang/cvpr-17)]
 
@@ -67,7 +67,7 @@ According to whether or not to use auxiliary images (PAN image/RGB image/multisp
 - Hyperspectral Super-Resolution: A Coupled Tensor Factorization Approach, arXiv2018, Charilaos I. Kanatsoulis et al.
 [[PDF](https://arxiv.org/pdf/1804.05307.pdf)]
 
-###### Matrix factorization based approaches:
+###### 3) Matrix factorization based approaches:
 - High-resolution hyperspectral imaging via matrix factorization, CVPR2011, R. Kawakami et al.
 [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.221.3532&rep=rep1&type=pdf)]
 [[Code](http://www.nae-lab.org/~rei/research/hh/index.html)]
@@ -117,7 +117,7 @@ According to whether or not to use auxiliary images (PAN image/RGB image/multisp
 - Hyperspectral Image Super-Resolution With a Mosaic RGB Image, TIP2018, Y. Fu et al.
 [[PDF](https://ieeexplore.ieee.org/document/8410569/)]
 
-###### Deep Learning based approaches:
+###### 4) Deep Learning based approaches:
 - Deep Residual Convolutional Neural Network for Hyperspectral Image Super-Resolution, ICIG2017, C. Wang et al.
 
 SSF-CNN: Spatial and Spectral Fusion with CNN for Hyperspectral Image Super-Resolution, ICIP2018, X. Han et al.
