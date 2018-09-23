@@ -3,7 +3,7 @@ A list of hyperspectral image super-solution resources collected by Junjun Jiang
 
 According to whether or not to use auxiliary images (PAN image/RGB image/multispectral images), hyperspectral image super-solution techniques can be divided into two classes: hyperspectral image super-solution (fusion) and single hyperspectral image super-solution. The former could be roughly categorized as follows: 1) Bayesian based approaches, 2) Tensor based approaches, 3) Matrix factorization based approaches, and 4) Deep Learning based approaches. 
 
-=======================================================================
+=============================================================================
 #### Pioneer work:
 Unmixing based multisensor multiresolution image fusion, TGRS1999, B. Zhukov et al.
 
@@ -15,7 +15,7 @@ MAP estimation for hyperspectral image resolution enhancement using an auxiliary
 
 Hyperspectral resolution enhancement using high-resolution multispectral imagery with arbitrary response functions, TGRS2005, M. T. Eismann et al.
 
-=======================================================================
+=============================================================================
 
 #### Technique Review:
 Hyperspectral pansharpening: a review. GRSM2015, L. Loncan et al.
@@ -26,7 +26,7 @@ Hyperspectral and multispectral data fusion: A comparative review of the recent 
 [[PDF](http://naotoyokoya.com/assets/pdf/NYokoyaGRSM2017.pdf)]
 [[Code](https://openremotesensing.net/wp-content/uploads/2017/11/HSMSFusionToolbox.zip)]
 
-=======================================================================
+=============================================================================
 
 #### Hyperspectral image super-solution (fusion)
 ###### Bayesian based approaches:
@@ -136,7 +136,7 @@ SSF-CNN: Spatial and Spectral Fusion with CNN for Hyperspectral Image Super-Reso
 - Unsupervised Sparse Dirichlet-Net for Hyperspectral Image Super-Resolution, CVPR2018, Y. Qu et al.
 [[PDF](https://arxiv.org/abs/1804.05042)]
 
-=======================================================================
+=============================================================================
 
 #### Single Hyperspectral Image Super-Resolution
 
@@ -164,5 +164,6 @@ Super-resolution hyperspectral imaging with unknown blurring by low-rank and gro
 - Hyperspectral image superresolution by transfer learning, Jstars2017, Y. Yuan et al.
 
 - A MAP-Based Approach for Hyperspectral Imagery Super-Resolution, TIP2018, Hasan Irmak et al.
+
 
 
