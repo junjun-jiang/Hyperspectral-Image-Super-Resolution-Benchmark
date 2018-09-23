@@ -4,25 +4,22 @@ A list of hyperspectral image super-solution resources collected by Junjun Jiang
 According to whether or not to use auxiliary images (PAN image/RGB image/multispectral images), hyperspectral image super-solution techniques can be divided into two classes: hyperspectral image super-solution (fusion) and single hyperspectral image super-solution. The former could be roughly categorized as follows: 1) Bayesian based approaches, 2) Tensor based approaches, 3) Matrix factorization based approaches, and 4) Deep Learning based approaches. 
 
 =============================================================================
-#### Pioneer work:
-Unmixing based multisensor multiresolution image fusion, TGRS1999, B. Zhukov et al.
+#### Pioneer work and technique review:
+- Unmixing based multisensor multiresolution image fusion, TGRS1999, B. Zhukov et al.
 
-Application of the stochastic mixing model to hyperspectral resolution enhancement, TGRS2004, M. T. Eismann et al.
+- Application of the stochastic mixing model to hyperspectral resolution enhancement, TGRS2004, M. T. Eismann et al.
 
-Resolution enhancement of hyperspectral imagery using maximum a posteriori estimation with a stochastic mixing model, Ph.D. dissertation, 2004, M. T. Eismann et al.
+- Resolution enhancement of hyperspectral imagery using maximum a posteriori estimation with a stochastic mixing model, Ph.D. dissertation, 2004, M. T. Eismann et al.
 
-MAP estimation for hyperspectral image resolution enhancement using an auxiliary sensor, TIP2004, R. C. Hardie et al.
+- MAP estimation for hyperspectral image resolution enhancement using an auxiliary sensor, TIP2004, R. C. Hardie et al.
 
-Hyperspectral resolution enhancement using high-resolution multispectral imagery with arbitrary response functions, TGRS2005, M. T. Eismann et al.
+- Hyperspectral resolution enhancement using high-resolution multispectral imagery with arbitrary response functions, TGRS2005, M. T. Eismann et al.
 
-=============================================================================
-
-#### Technique Review:
-Hyperspectral pansharpening: a review. GRSM2015, L. Loncan et al.
+- Hyperspectral pansharpening: a review. GRSM2015, L. Loncan et al.
 [[PDF](http://wei.perso.enseeiht.fr/papers/HyperPAN_review_2015.pdf)] 
 [[Code](http://wei.perso.enseeiht.fr/data/Results_GRSM_Qi%20WEI.zip)]
 
-Hyperspectral and multispectral data fusion: A comparative review of the recent literature, GRSM2017, N. Yokoya,et al.
+- Hyperspectral and multispectral data fusion: A comparative review of the recent literature, GRSM2017, N. Yokoya,et al.
 [[PDF](http://naotoyokoya.com/assets/pdf/NYokoyaGRSM2017.pdf)]
 [[Code](https://openremotesensing.net/wp-content/uploads/2017/11/HSMSFusionToolbox.zip)]
 
