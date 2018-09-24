@@ -3,7 +3,7 @@ A list of hyperspectral image super-solution resources collected by [Junjun Jian
 
 According to whether or not to use auxiliary information (PAN image/RGB image/multispectral images), hyperspectral image super-resolution techniques can be divided into two classes: hyperspectral image super-resolution (fusion) and single hyperspectral image super-resolution. The former could be roughly categorized as follows: 1) Bayesian based approaches, 2) Tensor based approaches, 3) Matrix factorization based approaches, and 4) Deep Learning based approaches. 
 
-=============================================================================
+================================================================================
 #### Pioneer Work and Technique Review
 - Unmixing based multisensor multiresolution image fusion, TGRS1999, B. Zhukov et al.
 
@@ -23,7 +23,7 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 [[PDF](http://naotoyokoya.com/assets/pdf/NYokoyaGRSM2017.pdf)]
 [[Code](https://openremotesensing.net/wp-content/uploads/2017/11/HSMSFusionToolbox.zip)]
 
-=============================================================================
+================================================================================
 
 #### Hyperspectral Image Super-Resolution (Fusion)
 ###### 1) Bayesian based approaches
@@ -132,7 +132,7 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 - Unsupervised Sparse Dirichlet-Net for Hyperspectral Image Super-Resolution, CVPR2018, Y. Qu et al.
 [[PDF](https://arxiv.org/abs/1804.05042)]
 
-=============================================================================
+================================================================================
 
 #### Single Hyperspectral Image Super-Resolution
 
@@ -161,7 +161,7 @@ Super-resolution hyperspectral imaging with unknown blurring by low-rank and gro
 
 - A MAP-Based Approach for Hyperspectral Imagery Super-Resolution, TIP2018, Hasan Irmak et al.
 
-=============================================================================
+================================================================================
 
 #### Databases
 - [CAVE dataset](http://www.cs.columbia.edu/CAVE/databases/multispectral/)
@@ -170,6 +170,7 @@ Super-resolution hyperspectral imaging with unknown blurring by low-rank and gro
 - [NUS datase](https://sites.google.com/site/hyperspectralcolorimaging/dataset/general-scenes)
 - [NTIRE18 dataset](http://www.vision.ee.ethz.ch/ntire18/)
 
+================================================================================
 
 #### Image Quality Measurement
 - Peak Signal to Noise Ratio (PSNR)
