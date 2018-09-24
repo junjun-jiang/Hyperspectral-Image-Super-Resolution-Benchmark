@@ -1,10 +1,10 @@
 # Hyperspectral-Image-Super-Resolution-Benchmark
 A list of hyperspectral image super-solution resources collected by [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun). If you find that important resources are not included, please feel free to contact me.
 
-According to whether or not to use auxiliary images (PAN image/RGB image/multispectral images), hyperspectral image super-solution techniques can be divided into two classes: hyperspectral image super-solution (fusion) and single hyperspectral image super-solution. The former could be roughly categorized as follows: 1) Bayesian based approaches, 2) Tensor based approaches, 3) Matrix factorization based approaches, and 4) Deep Learning based approaches. 
+According to whether or not to use auxiliary information (PAN image/RGB image/multispectral images), hyperspectral image super-resolution techniques can be divided into two classes: hyperspectral image super-resolution (fusion) and single hyperspectral image super-resolution. The former could be roughly categorized as follows: 1) Bayesian based approaches, 2) Tensor based approaches, 3) Matrix factorization based approaches, and 4) Deep Learning based approaches. 
 
 =============================================================================
-#### Pioneer work and technique review:
+#### Pioneer Work and Technique Review
 - Unmixing based multisensor multiresolution image fusion, TGRS1999, B. Zhukov et al.
 
 - Application of the stochastic mixing model to hyperspectral resolution enhancement, TGRS2004, M. T. Eismann et al.
@@ -25,8 +25,8 @@ According to whether or not to use auxiliary images (PAN image/RGB image/multisp
 
 =============================================================================
 
-#### Hyperspectral image super-solution (fusion)
-###### 1) Bayesian based approaches:
+#### Hyperspectral Image Super-Resolution (Fusion)
+###### 1) Bayesian based approaches
 - Blind Image Fusion for Hyperspectral Imaging with the Directional Total Variation, Inverse Problems, 2018, Leon Bungert et al.
 [[PDF](https://arxiv.org/abs/1710.05705)]
 [[Code](https://github.com/mehrhardt/blind_remote_sensing)]
@@ -53,7 +53,7 @@ According to whether or not to use auxiliary images (PAN image/RGB image/multisp
 - Weighted Low-rank Tensor Recovery for Hyperspectral Image Restoration, arXiv2018, Yi Chang et al.
 [[PDF](https://arxiv.org/pdf/1709.00192.pdf)]
 
-###### 2) Tensor based approaches:
+###### 2) Tensor based approaches
 - Hyperspectral image superresolution via non-local sparse tensor factorization, CVPR2017, R. Dian et al.
 [[PDF](https://sites.google.com/site/leyuanfang/cvpr-17)]
 
@@ -67,7 +67,7 @@ According to whether or not to use auxiliary images (PAN image/RGB image/multisp
 - Hyperspectral Super-Resolution: A Coupled Tensor Factorization Approach, arXiv2018, Charilaos I. Kanatsoulis et al.
 [[PDF](https://arxiv.org/pdf/1804.05307.pdf)]
 
-###### 3) Matrix factorization based approaches:
+###### 3) Matrix factorization based approaches
 - High-resolution hyperspectral imaging via matrix factorization, CVPR2011, R. Kawakami et al.
 [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.221.3532&rep=rep1&type=pdf)]
 [[Code](http://www.nae-lab.org/~rei/research/hh/index.html)]
@@ -111,12 +111,12 @@ According to whether or not to use auxiliary images (PAN image/RGB image/multisp
 - Self-Similarity Constrained Sparse Representation for Hyperspectral Image Super-Resolution, TIP2108, X. Han et al.
 
 - Exploiting Clustering Manifold Structure for Hyperspectral Imagery Super-Resolution, TIP2018, L. Zhang et al.
- [[PDF](https://sites.google.com/site/leizhanghyperspectral/publications)]
+ [[Web](https://sites.google.com/site/leizhanghyperspectral/publications)]
 
 - Hyperspectral Image Super-Resolution With a Mosaic RGB Image, TIP2018, Y. Fu et al.
 [[PDF](https://ieeexplore.ieee.org/document/8410569/)]
 
-###### 4) Deep Learning based approaches:
+###### 4) Deep Learning based approaches
 - Deep Residual Convolutional Neural Network for Hyperspectral Image Super-Resolution, ICIG2017, C. Wang et al.
 
 - SSF-CNN: Spatial and Spectral Fusion with CNN for Hyperspectral Image Super-Resolution, ICIP2018, X. Han et al.
@@ -164,7 +164,18 @@ Super-resolution hyperspectral imaging with unknown blurring by low-rank and gro
 =============================================================================
 
 #### Databases
-- [CAVE](http://www.cs.columbia.edu/CAVE/databases/multispectral/)
-- [Harvard](http://vision.seas.harvard.edu/hyperspec/explore.html)
+- [CAVE dataset](http://www.cs.columbia.edu/CAVE/databases/multispectral/)
+- [Harvard dataset](http://vision.seas.harvard.edu/hyperspec/explore.html)
+- [iCVL dataset](http://icvl.cs.bgu.ac.il/hyperspectral/)
+- [NUS datase](https://sites.google.com/site/hyperspectralcolorimaging/dataset/general-scenes)
+- [NTIRE18 dataset](http://www.vision.ee.ethz.ch/ntire18/)
 
+
+#### Image Quality Measurement
+- Peak Signal to Noise Ratio (PSNR)
+- Root Mean Square Error (RMSE)
+- Structural SIMilarity index (SSIM)
+- Spectral Angle Mapper (SAM)
+- Erreur Relative Globale Adimensionnelle de Synthèse (ERGAS)
+- Universal Image Quality Index (UIQI)
 
