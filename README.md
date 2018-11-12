@@ -161,6 +161,8 @@ Super-resolution hyperspectral imaging with unknown blurring by low-rank and gro
 
 - A MAP-Based Approach for Hyperspectral Imagery Super-Resolution, TIP2018, Hasan Irmak et al.
 
+- Single Hyperspectral Image Super-resolution with Grouped Deep Recursive Residual Network, BigMM2018, Yong Li et al.
+
 ================================================================================
 
 #### Databases
