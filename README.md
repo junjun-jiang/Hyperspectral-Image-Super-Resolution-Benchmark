@@ -142,7 +142,7 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 
 - A super-resolution reconstruction algorithm for hyperspectral images. Signal Process. 2012, H. Zhang et al.
 
-Super-resolution hyperspectral imaging with unknown blurring by low-rank and group-sparse modeling, ICIP2014, H. Huang et al.
+- Super-resolution hyperspectral imaging with unknown blurring by low-rank and group-sparse modeling, ICIP2014, H. Huang et al.
 
 - Super-resolution mapping via multi-dictionary based sparse representation, ICASSP2016, H. Huang et al.
 
@@ -157,7 +157,15 @@ Super-resolution hyperspectral imaging with unknown blurring by low-rank and gro
 
 - Hyperspectral image super-resolution by spectral difference learning and spatial error correction, GRSL2017, J. Hu et al.
 
+- Super-Resolution for Remote Sensing Images via Local–Global Combined Network, GRSL2017, J. Hu et al.
+
 - Hyperspectral image superresolution by transfer learning, Jstars2017, Y. Yuan et al.
+
+- Hyperspectral image super-resolution using deep convolutional neural network, Neurocomputing, 2017, Sen Lei et al.
+
+- Hyperspectral image super-resolution via nonlocal low-rank tensor approximation and total variation regularization, Remote Sensing, 2017, Yao Wang et al. [[PDF](https://www.mdpi.com/2072-4292/9/12/1286/htm)]
+
+- Hyperspectral Image Spatial Super-Resolution via 3D Full Convolutional Neural Network, Remote Sensing, 2017, Saohui Mei et al. [[PDF](https://www.mdpi.com/2072-4292/9/11/1139)]
 
 - A MAP-Based Approach for Hyperspectral Imagery Super-Resolution, TIP2018, Hasan Irmak et al.
 
