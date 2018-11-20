@@ -165,7 +165,7 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 
 - Hyperspectral image super-resolution via nonlocal low-rank tensor approximation and total variation regularization, Remote Sensing, 2017, Yao Wang et al. [[PDF](https://www.mdpi.com/2072-4292/9/12/1286/htm)]
 
-- Hyperspectral Image Spatial Super-Resolution via 3D Full Convolutional Neural Network, Remote Sensing, 2017, Saohui Mei et al. [[PDF](https://www.mdpi.com/2072-4292/9/11/1139)]
+- Hyperspectral Image Spatial Super-Resolution via 3D Full Convolutional Neural Network, Remote Sensing, 2017, Saohui Mei et al. [[PDF](https://www.mdpi.com/2072-4292/9/11/1139)][[Code]](https://github.com/MeiShaohui/Hyperspectral-Image-Spatial-Super-Resolution-via-3D-Full-Convolutional-Neural-Network)
 
 - A MAP-Based Approach for Hyperspectral Imagery Super-Resolution, TIP2018, Hasan Irmak et al.
 
