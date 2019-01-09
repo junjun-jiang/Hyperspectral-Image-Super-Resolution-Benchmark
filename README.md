@@ -171,6 +171,7 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 
 - Single Hyperspectral Image Super-resolution with Grouped Deep Recursive Residual Network, BigMM2018, Yong Li et al.
 
+- Separable-spectral convolution and inception network for hyperspectral image super-resolution, IJMLC 2019, Ke Zheng et al.
 ================================================================================
 
 #### Databases
