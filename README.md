@@ -67,6 +67,15 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 - Hyperspectral Super-Resolution: A Coupled Tensor Factorization Approach, arXiv2018, Charilaos I. Kanatsoulis et al.
 [[PDF](https://arxiv.org/pdf/1804.05307.pdf)]
 
+- Nonlocal Patch Tensor Sparse Representation for Hyperspectral Image Super-Resolution, TIP2019, Yang Xu et al.
+[[PDF](https://ieeexplore.ieee.org/abstract/document/8618436)]
+[[Web](http://www.escience.cn/people/xuyangcs/paper.dhome)]
+
+- Learning a Low Tensor-Train Rank Representation for Hyperspectral Image Super-Resolution, TNNLS2019, Renwei Dian et al.
+[[PDF](https://ieeexplore.ieee.org/abstract/document/8603806)]
+[[Web](http://www.escience.cn/people/dianrenwei/index.html)]
+
+
 ###### 3) Matrix factorization based approaches
 - High-resolution hyperspectral imaging via matrix factorization, CVPR2011, R. Kawakami et al.
 [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.221.3532&rep=rep1&type=pdf)]
@@ -97,7 +106,6 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 - Hyperspectral image super-resolution via non-negative structured sparse representation, TIP2016, W. Dong, et al.
 [[PDF](http://see.xidian.edu.cn/faculty/wsdong/Papers/Journal/NSSR_HSI_TIP16.pdf)] [[Code](http://see.xidian.edu.cn/faculty/wsdong/Code_release/NSSR_HSI_SR.rar)]
 
-
 - Hyperspectral super-resolution of locally low rank images from complementary multisource data, TIP2016, M. A. Veganzones et al.
 [[PDF](https://hal.archives-ouvertes.fr/hal-00960076/document)]
 
@@ -116,6 +124,10 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 - Hyperspectral Image Super-Resolution With a Mosaic RGB Image, TIP2018, Y. Fu et al.
 [[PDF](https://ieeexplore.ieee.org/document/8410569/)]
 
+- Multispectral Image Super-Resolution via RGB Image Fusion and Radiometric Calibration, TIP2019, Zhi-Wei Pan et al.
+[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8543870)]
+ [[Web](http://www.ivlab.org/panzhw.html)]
+ 
 ###### 4) Deep Learning based approaches
 - Deep Residual Convolutional Neural Network for Hyperspectral Image Super-Resolution, ICIG2017, C. Wang et al.
 
