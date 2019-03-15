@@ -144,6 +144,13 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 - Unsupervised Sparse Dirichlet-Net for Hyperspectral Image Super-Resolution, CVPR2018, Y. Qu et al.
 [[PDF](https://arxiv.org/abs/1804.05042)]
 
+- Deep Hyperspectral Prior: Denoising, Inpainting, Super-Resolution, arXiv2019, Oleksii Sidorov et al.
+[[PDF](https://arxiv.org/abs/1902.00301)]
+ 
+ - Multispectral and Hyperspectral Image Fusion by MS/HS Fusion Net, arXiv2019, Xie Qi et al.
+[[PDF](https://arxiv.org/pdf/1901.03281.pdf)]
+ [[Web](https://scholar.google.com/citations?hl=zh-CN&user=2ZqIzTMAAAAJ&view_op=list_works&sortby=pubdate)]
+ 
 ================================================================================
 
 #### Single Hyperspectral Image Super-Resolution
