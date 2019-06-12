@@ -130,12 +130,14 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
  
 ###### 4) Deep Learning based approaches
 - Deep Residual Convolutional Neural Network for Hyperspectral Image Super-Resolution, ICIG2017, C. Wang et al.
+[[PDF](http://www.ict.griffith.edu.au/~junzhou/papers/C_ICIG_2017.pdf)]
+
 
 - SSF-CNN: Spatial and Spectral Fusion with CNN for Hyperspectral Image Super-Resolution, ICIP2018, X. Han et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8451142)]
 
 - Deep Hyperspectral Image Sharpening, TNNLS2018, R. Dian et al.
 [[PDF](https://drive.google.com/open?id=1FIyVL9c8jlDY3heEZ57nGvpSDZc0mkeT)]
-[[Code](https://drive.google.com/open?id=19xYNnCht1-_nh4pys6Fw7z0mVQqRha8k)]
+[[Code](https://github.com/renweidian/DHSIS)]
 
 
 - HSI-DeNet: Hyperspectral Image Restoration via Convolutional Neural Network, TGRS2018, Y. Chang et al.
@@ -143,13 +145,19 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 
 - Unsupervised Sparse Dirichlet-Net for Hyperspectral Image Super-Resolution, CVPR2018, Y. Qu et al.
 [[PDF](https://arxiv.org/abs/1804.05042)]
+[[Code](https://github.com/aicip/uSDN)]
 
 - Deep Hyperspectral Prior: Denoising, Inpainting, Super-Resolution, arXiv2019, Oleksii Sidorov et al.
 [[PDF](https://arxiv.org/abs/1902.00301)]
+[[Code](https://github.com/acecreamu/deep-hs-prior)]
  
  - Multispectral and Hyperspectral Image Fusion by MS/HS Fusion Net, arXiv2019, Xie Qi et al.
 [[PDF](https://arxiv.org/pdf/1901.03281.pdf)]
  [[Web](https://scholar.google.com/citations?hl=zh-CN&user=2ZqIzTMAAAAJ&view_op=list_works&sortby=pubdate)]
+ 
+ - Learning a Low Tensor-Train Rank Representation for Hyperspectral Image Super-Resolution, TNNLS2019, R. Dian et al.
+[[PDF](https://ieeexplore.ieee.org/document/8603806)]
+[[Code](https://github.com/renweidian/LTTR)]
  
 ================================================================================
 
@@ -178,21 +186,26 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 
 - Super-Resolution for Remote Sensing Images via Local–Global Combined Network, GRSL2017, J. Hu et al.
 
-- Hyperspectral image superresolution by transfer learning, Jstars2017, Y. Yuan et al.
+- Hyperspectral image superresolution by transfer learning, Jstars2017, Y. Yuan et al. [[PDF](http://ieeexplore.ieee.org/iel7/4609443/4609444/07855724.pdf)]
 
-- Hyperspectral image super-resolution using deep convolutional neural network, Neurocomputing, 2017, Sen Lei et al.
+- Hyperspectral image super-resolution using deep convolutional neural network, Neurocomputing, 2017, Sen Lei et al. [[PDF](https://www.researchgate.net/publication/317024713_Hyperspectral_image_super-resolution_using_deep_convolutional_neural_network)]
 
 - Hyperspectral image super-resolution via nonlocal low-rank tensor approximation and total variation regularization, Remote Sensing, 2017, Yao Wang et al. [[PDF](https://www.mdpi.com/2072-4292/9/12/1286/htm)]
 
-- Hyperspectral Image Spatial Super-Resolution via 3D Full Convolutional Neural Network, Remote Sensing, 2017, Saohui Mei et al. [[PDF](https://www.mdpi.com/2072-4292/9/11/1139)][[Code]](https://github.com/MeiShaohui/Hyperspectral-Image-Spatial-Super-Resolution-via-3D-Full-Convolutional-Neural-Network)
+- Hyperspectral Image Spatial Super-Resolution via 3D Full Convolutional Neural Network, Remote Sensing, 2017, Saohui Mei et al. [[PDF](https://www.mdpi.com/2072-4292/9/11/1139)]
+[[Code](https://github.com/MeiShaohui/Hyperspectral-Image-Spatial-Super-Resolution-via-3D-Full-Convolutional-Neural-Network)]
 
 - A MAP-Based Approach for Hyperspectral Imagery Super-Resolution, TIP2018, Hasan Irmak et al.
 
-- Single Hyperspectral Image Super-resolution with Grouped Deep Recursive Residual Network, BigMM2018, Yong Li et al.
+- Single Hyperspectral Image Super-resolution with Grouped Deep Recursive Residual Network, BigMM2018, Yong Li et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8499097)]
+[[Code](https://github.com/Liyong8490/HSI-SR-GDRRN)]
+
+- Hyperspectral image super-resolution with spectral–spatial network, IJRS2018, Jinrang Jia et al. [[PDF](https://www.tandfonline.com/doi/full/10.1080/01431161.2018.1471546)]
 
 - Separable-spectral convolution and inception network for hyperspectral image super-resolution, IJMLC 2019, Ke Zheng et al.
 
-- Hyperspectral Image Super-Resolution Using Deep Feature Matrix Factorization, IEEE TGRS 2019, Weiying Xie et al.
+- Hyperspectral Image Super-Resolution Using Deep Feature Matrix Factorization, IEEE TGRS 2019, Weiying Xie et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8678710)]
+
 ================================================================================
 
 #### Databases
@@ -201,6 +214,7 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 - [iCVL dataset](http://icvl.cs.bgu.ac.il/hyperspectral/)
 - [NUS datase](https://sites.google.com/site/hyperspectralcolorimaging/dataset/general-scenes)
 - [NTIRE18 dataset](http://www.vision.ee.ethz.ch/ntire18/)
+- [For MATLAB: Indian Pines, Salinas, KSC et al.](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)
 
 ================================================================================
 
