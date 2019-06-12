@@ -217,7 +217,7 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 - [iCVL dataset](http://icvl.cs.bgu.ac.il/hyperspectral/)
 - [NUS datase](https://sites.google.com/site/hyperspectralcolorimaging/dataset/general-scenes)
 - [NTIRE18 dataset](http://www.vision.ee.ethz.ch/ntire18/)
-- [For MATLAB: Indian Pines, Salinas, KSC et al.](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)
+- [Indian Pines, Salinas, KSC et al.](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)
 
 ================================================================================
 
