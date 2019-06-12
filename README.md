@@ -120,13 +120,18 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 
 - Exploiting Clustering Manifold Structure for Hyperspectral Imagery Super-Resolution, TIP2018, L. Zhang et al.
  [[Web](https://sites.google.com/site/leizhanghyperspectral/publications)]
-
+ 
 - Hyperspectral Image Super-Resolution With a Mosaic RGB Image, TIP2018, Y. Fu et al.
 [[PDF](https://ieeexplore.ieee.org/document/8410569/)]
+
+- Fusing Hyperspectral and Multispectral Images via Coupled Sparse Tensor Factorization, TIP2018, Y. Fu et al.
+[[PDF](https://drive.google.com/open?id=1ZJQB1RhjRO9JNTBVaNknk1DXjiWfg6Gd)][[Code](https://drive.google.com/open?id=12eleEjv7wKQxFCBUcIGkEl-wiUiJxwTv)]
 
 - Multispectral Image Super-Resolution via RGB Image Fusion and Radiometric Calibration, TIP2019, Zhi-Wei Pan et al.
 [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8543870)]
  [[Web](http://www.ivlab.org/panzhw.html)]
+ 
+ - Hyperspectral Image Super-resolution via Subspace-Based Low Tensor Multi-Rank Regularization, TIP2019, Renwei Dian et al. [[PDF](https://drive.google.com/open?id=1k8o_uBwImUDkywMWEwFd-PFo6gB5Sv8U)]
  
 ###### 4) Deep Learning based approaches
 - Deep Residual Convolutional Neural Network for Hyperspectral Image Super-Resolution, ICIG2017, C. Wang et al.
@@ -155,9 +160,7 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 [[PDF](https://arxiv.org/pdf/1901.03281.pdf)]
  [[Web](https://scholar.google.com/citations?hl=zh-CN&user=2ZqIzTMAAAAJ&view_op=list_works&sortby=pubdate)]
  
- - Learning a Low Tensor-Train Rank Representation for Hyperspectral Image Super-Resolution, TNNLS2019, R. Dian et al.
-[[PDF](https://ieeexplore.ieee.org/document/8603806)]
-[[Code](https://github.com/renweidian/LTTR)]
+
  
 ================================================================================
 
