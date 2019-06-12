@@ -73,7 +73,7 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 
 - Learning a Low Tensor-Train Rank Representation for Hyperspectral Image Super-Resolution, TNNLS2019, Renwei Dian et al.
 [[PDF](https://ieeexplore.ieee.org/abstract/document/8603806)]
-[[Web](http://www.escience.cn/people/dianrenwei/index.html)]
+[[Web](https://github.com/renweidian/LTTR)]
 
 
 ###### 3) Matrix factorization based approaches
@@ -125,7 +125,7 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 [[PDF](https://ieeexplore.ieee.org/document/8410569/)]
 
 - Fusing Hyperspectral and Multispectral Images via Coupled Sparse Tensor Factorization, TIP2018, S. Li et al.
-[[PDF](https://drive.google.com/open?id=1ZJQB1RhjRO9JNTBVaNknk1DXjiWfg6Gd)][[Code](https://drive.google.com/open?id=12eleEjv7wKQxFCBUcIGkEl-wiUiJxwTv)]
+[[PDF](https://drive.google.com/open?id=1ZJQB1RhjRO9JNTBVaNknk1DXjiWfg6Gd)][[Code](https://github.com/renweidian/CSTF)]
 
 - Multispectral Image Super-Resolution via RGB Image Fusion and Radiometric Calibration, TIP2019, Zhi-Wei Pan et al.
 [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8543870)]
