@@ -119,12 +119,12 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 - Self-Similarity Constrained Sparse Representation for Hyperspectral Image Super-Resolution, TIP2108, X. Han et al.
 
 - Exploiting Clustering Manifold Structure for Hyperspectral Imagery Super-Resolution, TIP2018, L. Zhang et al.
- [[Web](https://sites.google.com/site/leizhanghyperspectral/publications)]
+ [[Code](https://sites.google.com/site/leizhanghyperspectral/publications)]
  
 - Hyperspectral Image Super-Resolution With a Mosaic RGB Image, TIP2018, Y. Fu et al.
 [[PDF](https://ieeexplore.ieee.org/document/8410569/)]
 
-- Fusing Hyperspectral and Multispectral Images via Coupled Sparse Tensor Factorization, TIP2018, Y. Fu et al.
+- Fusing Hyperspectral and Multispectral Images via Coupled Sparse Tensor Factorization, TIP2018, S. Li et al.
 [[PDF](https://drive.google.com/open?id=1ZJQB1RhjRO9JNTBVaNknk1DXjiWfg6Gd)][[Code](https://drive.google.com/open?id=12eleEjv7wKQxFCBUcIGkEl-wiUiJxwTv)]
 
 - Multispectral Image Super-Resolution via RGB Image Fusion and Radiometric Calibration, TIP2019, Zhi-Wei Pan et al.
