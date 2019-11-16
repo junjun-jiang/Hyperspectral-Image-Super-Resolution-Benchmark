@@ -113,9 +113,6 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 
 - Hyperspectral Image Super-Resolution Based on Spatial and Spectral Correlation Fusion, TRGS2018, C. Yi et al.
 
-- Super-Resolution for Hyperspectral and Multispectral Image Fusion Accounting for Seasonal Spectral Variability, arXiv2018, Ricardo Augusto Borsoi et al.
-[[PDF](https://arxiv.org/abs/1808.10072)]
-
 - Self-Similarity Constrained Sparse Representation for Hyperspectral Image Super-Resolution, TIP2108, X. Han et al.
 
 - Exploiting Clustering Manifold Structure for Hyperspectral Imagery Super-Resolution, TIP2018, L. Zhang et al.
@@ -159,8 +156,19 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
  - Multispectral and Hyperspectral Image Fusion by MS/HS Fusion Net, arXiv2019, Xie Qi et al.
 [[PDF](https://arxiv.org/pdf/1901.03281.pdf)]
  [[Web](https://scholar.google.com/citations?hl=zh-CN&user=2ZqIzTMAAAAJ&view_op=list_works&sortby=pubdate)]
- 
 
+ - Multi-level and Multi-scale Spatial and Spectral Fusion CNN for Hyperspectral Image Super-resolution, ICCVW 2019, Xianhua Han et al.
+[[PDF](http://openaccess.thecvf.com/content_ICCVW_2019/papers/PBDL/Han_Multi-Level_and_Multi-Scale_Spatial_and_Spectral_Fusion_CNN_for_Hyperspectral_ICCVW_2019_paper.pdf)]
+
+ - Multispectral and Hyperspectral Image Fusion by MS/HS Fusion Net, arXiv2019, Xie Qi et al.
+[[PDF](https://arxiv.org/pdf/1901.03281.pdf)]
+ [[Web](https://scholar.google.com/citations?hl=zh-CN&user=2ZqIzTMAAAAJ&view_op=list_works&sortby=pubdate)]
+
+###### 5) Simulations registration and super-resolution approaches
+ 
+- An Integrated Approach to Registration and Fusion of Hyperspectral and Multispectral Images, TRGS 2019, Yuan Zhou et al.
+
+- Deep Blind Hyperspectral Image Fusion, ICCV 2019, Wu Wang et al. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Deep_Blind_Hyperspectral_Image_Fusion_ICCV_2019_paper.pdf)]
  
 ================================================================================
 
