@@ -75,6 +75,11 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 [[PDF](https://ieeexplore.ieee.org/abstract/document/8603806)]
 [[Web](https://github.com/renweidian/LTTR)]
 
+- Nonnegative and Nonlocal Sparse Tensor Factorization-Based Hyperspectral Image Super-Resolution, TGRSS2020, Wei Wan et al.
+[[PDF](https://ieeexplore.ieee.org/abstract/document/9082892)]
+
+- Hyperspectral Super-Resolution via Coupled Tensor Ring Factorization, TGRSS2020, Wei He et al., arXiv2020.
+[[PDF](https://arxiv.org/pdf/2001.01547.pdf)]
 
 ###### 3) Matrix factorization based approaches
 - High-resolution hyperspectral imaging via matrix factorization, CVPR2011, R. Kawakami et al.
@@ -153,22 +158,22 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 [[PDF](https://arxiv.org/abs/1902.00301)]
 [[Code](https://github.com/acecreamu/deep-hs-prior)]
  
- - Multispectral and Hyperspectral Image Fusion by MS/HS Fusion Net, arXiv2019, Xie Qi et al.
-[[PDF](https://arxiv.org/pdf/1901.03281.pdf)]
- [[Web](https://scholar.google.com/citations?hl=zh-CN&user=2ZqIzTMAAAAJ&view_op=list_works&sortby=pubdate)]
-
  - Multi-level and Multi-scale Spatial and Spectral Fusion CNN for Hyperspectral Image Super-resolution, ICCVW 2019, Xianhua Han et al.
 [[PDF](http://openaccess.thecvf.com/content_ICCVW_2019/papers/PBDL/Han_Multi-Level_and_Multi-Scale_Spatial_and_Spectral_Fusion_CNN_for_Hyperspectral_ICCVW_2019_paper.pdf)]
 
- - Multispectral and Hyperspectral Image Fusion by MS/HS Fusion Net, arXiv2019, Xie Qi et al.
+ - Multispectral and Hyperspectral Image Fusion by MS/HS Fusion Net, CVPR2019, Xie Qi et al.
 [[PDF](https://arxiv.org/pdf/1901.03281.pdf)]
+ [[Web](https://scholar.google.com/citations?hl=zh-CN&user=2ZqIzTMAAAAJ&view_op=list_works&sortby=pubdate)]
+ 
+  - Hyperspectral Image Reconstruction Using Deep External and Internal Learning,ICCV2019, Zhang Tao et al.
+[[PDF]http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Hyperspectral_Image_Reconstruction_Using_Deep_External_and_Internal_Learning_ICCV_2019_paper.pdf)]
  [[Web](https://scholar.google.com/citations?hl=zh-CN&user=2ZqIzTMAAAAJ&view_op=list_works&sortby=pubdate)]
 
 ###### 5) Simulations registration and super-resolution approaches
  
 - An Integrated Approach to Registration and Fusion of Hyperspectral and Multispectral Images, TRGS 2019, Yuan Zhou et al.
 
-- Deep Blind Hyperspectral Image Fusion, ICCV 2019, Wu Wang et al. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Deep_Blind_Hyperspectral_Image_Fusion_ICCV_2019_paper.pdf)]
+- Deep Blind Hyperspectral Image Fusion, ICCV2019, Wu Wang et al. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Deep_Blind_Hyperspectral_Image_Fusion_ICCV_2019_paper.pdf)]
  
 ================================================================================
 
@@ -216,6 +221,10 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 - Separable-spectral convolution and inception network for hyperspectral image super-resolution, IJMLC 2019, Ke Zheng et al.
 
 - Hyperspectral Image Super-Resolution Using Deep Feature Matrix Factorization, IEEE TGRS 2019, Weiying Xie et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8678710)]
+
+- Spatial-Spectral Residual Network for Hyperspectral Image Super-Resolution, arXiv2020, Qi Wang et al. [[PDF](https://arxiv.org/pdf/2001.04609.pdf)]
+
+- CNN-Based Super-Resolution of Hyperspectral Images, IEEE TGRS 2020, P. V. Arun et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9018371)]
 
 ================================================================================
 
