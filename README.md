@@ -138,6 +138,8 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
  
  - Hyperspectral Image Super-resolution via Subspace-Based Low Tensor Multi-Rank Regularization, TIP2019, Renwei Dian et al. [[PDF](https://drive.google.com/open?id=1k8o_uBwImUDkywMWEwFd-PFo6gB5Sv8U)]
  
+ - Super-Resolution for Hyperspectral and Multispectral Image Fusion Accounting for Seasonal Spectral Variability, TIP2020, R.A. Borsoi et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8768351)]
+ 
 ###### 4) Deep Learning based approaches
 - Deep Residual Convolutional Neural Network for Hyperspectral Image Super-Resolution, ICIG2017, C. Wang et al.
 [[PDF](http://www.ict.griffith.edu.au/~junzhou/papers/C_ICIG_2017.pdf)]
