@@ -75,13 +75,13 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 [[PDF](https://ieeexplore.ieee.org/abstract/document/8603806)]
 [[Web](https://github.com/renweidian/LTTR)]
 
-- Nonnegative and Nonlocal Sparse Tensor Factorization-Based Hyperspectral Image Super-Resolution, TGRSS2020, Wei Wan et al.
+- Nonnegative and Nonlocal Sparse Tensor Factorization-Based Hyperspectral Image Super-Resolution, IEEE TGRS2020, Wei Wan et al.
 [[PDF](https://ieeexplore.ieee.org/abstract/document/9082892)]
 
-- Nonlocal Coupled Tensor CP Decomposition for Hyperspectral and Multispectral Image Fusion, TGRSS2020, Xu Yang et al.
+- Nonlocal Coupled Tensor CP Decomposition for Hyperspectral and Multispectral Image Fusion, IEEE TGRS2020, Xu Yang et al.
 [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8835149)]
 
-- Hyperspectral Super-Resolution via Coupled Tensor Ring Factorization, TGRSS2020, Wei He et al., arXiv2020.
+- Hyperspectral Super-Resolution via Coupled Tensor Ring Factorization, IEEE TGRS2020, Wei He et al., arXiv2020.
 [[PDF](https://arxiv.org/pdf/2001.01547.pdf)]
 
 ###### 3) Matrix factorization based approaches
