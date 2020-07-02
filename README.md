@@ -235,7 +235,7 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 
 - CNN-Based Super-Resolution of Hyperspectral Images, IEEE TGRS 2020, P. V. Arun et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9018371)]
 
-- Learning Spectral-Spatial Prior for Super-Resolution of Hyperspectral Imagery, IEEE TCI 2020, Junjun Jiang et al. [[Code](https://github.com/junjun-jiang/SSPSR)][[Pdf](https://arxiv.org/abs/2005.08752)] $\color{FF0000}{The method achieves state-of-the-art performance.}$
+- Learning Spectral-Spatial Prior for Super-Resolution of Hyperspectral Imagery, IEEE TCI 2020, Junjun Jiang et al. [[Code](https://github.com/junjun-jiang/SSPSR)][[Pdf](https://arxiv.org/abs/2005.08752)] 【This method achieves state-of-the-art performance for Single Hyperspectral Image Super-Resolution.】
 
 ================================================================================
 
@@ -245,6 +245,7 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 - [iCVL dataset](http://icvl.cs.bgu.ac.il/hyperspectral/)
 - [NUS datase](https://sites.google.com/site/hyperspectralcolorimaging/dataset/general-scenes)
 - [NTIRE18 dataset](http://www.vision.ee.ethz.ch/ntire18/)
+- [Chikusei dataset](https://www.sal.t.u-tokyo.ac.jp/hyperdata/)
 - [Indian Pines, Salinas, KSC et al.](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)
 
 ================================================================================
