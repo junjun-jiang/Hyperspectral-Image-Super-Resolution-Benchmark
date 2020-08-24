@@ -84,6 +84,7 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 - Hyperspectral Super-Resolution via Coupled Tensor Ring Factorization, IEEE TGRS2020, Wei He et al., arXiv2020.
 [[PDF](https://arxiv.org/pdf/2001.01547.pdf)]
 
+
 ###### 3) Matrix factorization based approaches
 - High-resolution hyperspectral imaging via matrix factorization, CVPR2011, R. Kawakami et al.
 [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.221.3532&rep=rep1&type=pdf)]
@@ -142,6 +143,8 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
  
  - Super-Resolution for Hyperspectral and Multispectral Image Fusion Accounting for Seasonal Spectral Variability, TIP2020, R.A. Borsoi et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8768351)]
  
+ - A Truncated Matrix Decomposition for Hyperspectral Image Super-Resolution, TIP2020, Jianjun Liu et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9147021)]
+ 
 ###### 4) Deep Learning based approaches
 - Deep Residual Convolutional Neural Network for Hyperspectral Image Super-Resolution, ICIG2017, C. Wang et al.
 [[PDF](http://www.ict.griffith.edu.au/~junzhou/papers/C_ICIG_2017.pdf)]
@@ -175,6 +178,10 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
   - Hyperspectral Image Reconstruction Using Deep External and Internal Learning,ICCV2019, Zhang Tao et al.
 [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Hyperspectral_Image_Reconstruction_Using_Deep_External_and_Internal_Learning_ICCV_2019_paper.pdf)]
  [[Web](https://scholar.google.com/citations?hl=zh-CN&user=2ZqIzTMAAAAJ&view_op=list_works&sortby=pubdate)]
+ 
+  - Deep Recursive Network for Hyperspectral Image Super-Resolution, IEEE TCI2020, Wei Wei, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9162463)][[Web](https://sites.google.com/site/leizhanghyperspectral/home)]
+  
+  - Deep Blind Hyperspectral Image Super-Resolution, IEEE TNNLS2020, Lei Zhang, et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9136736)][[Web](https://sites.google.com/site/leizhanghyperspectral/home)] 
 
 ###### 5) Simulations registration and super-resolution approaches
  
@@ -235,7 +242,9 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 
 - CNN-Based Super-Resolution of Hyperspectral Images, IEEE TGRS 2020, P. V. Arun et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9018371)]
 
-- Learning Spatial-Spectral Prior for Super-Resolution of Hyperspectral Imagery, IEEE TCI 2020, Junjun Jiang et al. [[Code](https://github.com/junjun-jiang/SSPSR)][[Pdf](https://arxiv.org/abs/2005.08752)] 【This method achieves state-of-the-art performance for Single Hyperspectral Image Super-Resolution.】
+- Mixed 2D/3D Convolutional Network for Hyperspectral Image Super-Resolution, Remote Sensing 2020, Qiang Li et al. [[Code](https://github.com/qianngli/MCNet)][[Pdf](https://www.mdpi.com/2072-4292/12/10/1660)]
+
+- Learning Spatial-Spectral Prior for Super-Resolution of Hyperspectral Imagery, IEEE TCI 2020, Junjun Jiang et al. [[Code](https://github.com/junjun-jiang/SSPSR)][[Pdf](https://arxiv.org/abs/2005.08752)] 【This method achieves state-of-the-art performance for Single Hyperspectral Image Super-Resolution】
 
 ================================================================================
 
