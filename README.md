@@ -260,7 +260,7 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 
 - Hyperspectral Image Super-Resolution by Band Attention Through Adversarial Learning, IEEE TGRS 2020, Jiaojiao Li et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/8960413)] 
 
-- Learning Spatial-Spectral Prior for Super-Resolution of Hyperspectral Imagery, IEEE TCI 2020, Junjun Jiang et al. [[Code](https://github.com/junjun-jiang/SSPSR)][[Pdf](https://arxiv.org/abs/2005.08752)] 【This method achieves state-of-the-art performance for Single Hyperspectral Image Super-Resolution】
+- Learning Spatial-Spectral Prior for Super-Resolution of Hyperspectral Imagery, IEEE TCI 2020, Junjun Jiang et al. [[Code](https://github.com/junjun-jiang/SSPSR)][[Pdf](https://arxiv.org/abs/2005.08752)] 【This is oudr method and achieves state-of-the-art performance for Single Hyperspectral Image Super-Resolution】
 
 - Bidirectional 3D Quasi-Recurrent Neural Networkfor Hyperspectral Image Super-Resolution, IEEE JStars 2021, Ying Fu et al. [[Web](https://ying-fu.github.io/)][[Pdf](https://ieeexplore.ieee.org/document/9351612)] 
 
