@@ -81,8 +81,11 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 - Nonlocal Coupled Tensor CP Decomposition for Hyperspectral and Multispectral Image Fusion, IEEE TGRS2020, Xu Yang et al.
 [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8835149)]
 
-- Hyperspectral Super-Resolution via Coupled Tensor Ring Factorization, IEEE TGRS2020, Wei He et al., arXiv2020.
+- Hyperspectral Super-Resolution via Coupled Tensor Ring Factorization, IEEE TGRS2020, Wei He et al.
 [[PDF](https://arxiv.org/pdf/2001.01547.pdf)]
+
+- Spatial-Spectral Structured Sparse Low-Rank Representation for Hyperspectral Image Super-Resolution, IEEE TIP2021, Jize Xue et al.,
+[[PDF](https://ieeexplore.ieee.org/abstract/document/9356457)]
 
 
 ###### 3) Matrix factorization based approaches
@@ -179,9 +182,18 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Hyperspectral_Image_Reconstruction_Using_Deep_External_and_Internal_Learning_ICCV_2019_paper.pdf)]
  [[Web](https://scholar.google.com/citations?hl=zh-CN&user=2ZqIzTMAAAAJ&view_op=list_works&sortby=pubdate)]
  
+ - Deep Blind Hyperspectral Image Super-Resolution, IEEE TNNLS 2020, Lei Zhang et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9136736)] 
+
   - Deep Recursive Network for Hyperspectral Image Super-Resolution, IEEE TCI2020, Wei Wei, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9162463)][[Web](https://sites.google.com/site/leizhanghyperspectral/home)]
   
   - Unsupervised Recurrent Hyperspectral Imagery Super-Resolution Using Pixel-Aware Refinement, IEEE TGRS2021, Wei Wei, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9292466)][[Web](https://sites.google.com/site/leizhanghyperspectral/home)] 
+
+- Exploring the Relationship Between 2D/3D Convolution for Hyperspectral Image Super-Resolution, IEEE TGRS 2021, Qi Wang et al. [[Web](https://crabwq.github.io/)][[Pdf](https://ieeexplore.ieee.org/abstract/document/9334383)] 
+
+- A Band Divide-and-Conquer Multispectral and Hyperspectral Image Fusion Method, IEEE TGRS 2021, Weiwei Sun et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9363338)] 
+
+- Hyperspectral Image Super-Resolution via Deep Progressive Zero-Centric Residual Learning, IEEE TIP 2021, Zhiyu Zhu et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9298460)] 
+
 
 ###### 5) Simulations registration and super-resolution approaches
  
@@ -245,6 +257,8 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 - Hyperspectral Image Super-Resolution via Intrafusion Network, IEEE TGRS 2020, Jing Hu et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9057496)]
 
 - Mixed 2D/3D Convolutional Network for Hyperspectral Image Super-Resolution, Remote Sensing 2020, Qiang Li et al. [[Code](https://github.com/qianngli/MCNet)][[Pdf](https://www.mdpi.com/2072-4292/12/10/1660)]
+
+- Hyperspectral Image Super-Resolution by Band Attention Through Adversarial Learning, IEEE TGRS 2020, Jiaojiao Li et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/8960413)] 
 
 - Learning Spatial-Spectral Prior for Super-Resolution of Hyperspectral Imagery, IEEE TCI 2020, Junjun Jiang et al. [[Code](https://github.com/junjun-jiang/SSPSR)][[Pdf](https://arxiv.org/abs/2005.08752)] 【This method achieves state-of-the-art performance for Single Hyperspectral Image Super-Resolution】
 
