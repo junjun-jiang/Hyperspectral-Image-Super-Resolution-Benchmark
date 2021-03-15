@@ -181,7 +181,7 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
  
   - Deep Recursive Network for Hyperspectral Image Super-Resolution, IEEE TCI2020, Wei Wei, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9162463)][[Web](https://sites.google.com/site/leizhanghyperspectral/home)]
   
-  - Deep Blind Hyperspectral Image Super-Resolution, IEEE TNNLS2020, Lei Zhang, et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9136736)][[Web](https://sites.google.com/site/leizhanghyperspectral/home)] 
+  - Unsupervised Recurrent Hyperspectral Imagery Super-Resolution Using Pixel-Aware Refinement, IEEE TGRS2021, Wei Wei, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9292466)][[Web](https://sites.google.com/site/leizhanghyperspectral/home)] 
 
 ###### 5) Simulations registration and super-resolution approaches
  
@@ -247,6 +247,19 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 - Mixed 2D/3D Convolutional Network for Hyperspectral Image Super-Resolution, Remote Sensing 2020, Qiang Li et al. [[Code](https://github.com/qianngli/MCNet)][[Pdf](https://www.mdpi.com/2072-4292/12/10/1660)]
 
 - Learning Spatial-Spectral Prior for Super-Resolution of Hyperspectral Imagery, IEEE TCI 2020, Junjun Jiang et al. [[Code](https://github.com/junjun-jiang/SSPSR)][[Pdf](https://arxiv.org/abs/2005.08752)] 【This method achieves state-of-the-art performance for Single Hyperspectral Image Super-Resolution】
+
+- Bidirectional 3D Quasi-Recurrent Neural Networkfor Hyperspectral Image Super-Resolution, IEEE JStars 2021, Ying Fu et al. [[Web](https://ying-fu.github.io/)][[Pdf](https://ieeexplore.ieee.org/document/9351612)] 
+
+- Hyperspectral Image Super-Resolution Using Spectrum and Feature Context, IEEE TIM 2021, Qi Wang et al. [[Web](https://crabwq.github.io/)][[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9264655)] 
+
+- Hyperspectral Image Super-Resolution with Spectral Mixup and Heterogeneous Datasets, arXiv2021, Ke Li et al. [[Pdf](https://arxiv.org/abs/2101.07589)] 
+
+- A Spectral Grouping and Attention-Driven Residual Dense Network for Hyperspectral Image Super-Resolution, IEEE TGRS 2021, Denghong Liu et al. [[Web](http://qqyuan.users.sgg.whu.edu.cn/)][[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9329109)] 
+
+- Spatial-Spectral Feedback Network for Super-Resolution of Hyperspectral Imagery, IEEE TGRS 2021, Enhai Liu et al. [[Web](https://scholar.google.com.hk/citations?user=sgWhbbAAAAAJ&hl=zh-CN)][[Pdf](https://arxiv.org/pdf/2103.04354.pdf)] 
+
+
+
 
 ================================================================================
 
