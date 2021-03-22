@@ -270,7 +270,7 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 
 - A Spectral Grouping and Attention-Driven Residual Dense Network for Hyperspectral Image Super-Resolution, IEEE TGRS 2021, Denghong Liu et al. [[Web](http://qqyuan.users.sgg.whu.edu.cn/)][[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9329109)] 
 
-- Spatial-Spectral Feedback Network for Super-Resolution of Hyperspectral Imagery, IEEE TGRS 2021, Enhai Liu et al. [[Web](https://scholar.google.com.hk/citations?user=sgWhbbAAAAAJ&hl=zh-CN)][[Pdf](https://arxiv.org/pdf/2103.04354.pdf)] 
+- Spatial-Spectral Feedback Network for Super-Resolution of Hyperspectral Imagery, arXiv 2021, Enhai Liu et al. [[Web](https://scholar.google.com.hk/citations?user=sgWhbbAAAAAJ&hl=zh-CN)][[Pdf](https://arxiv.org/pdf/2103.04354.pdf)] 
 
 
 
