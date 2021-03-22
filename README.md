@@ -188,8 +188,6 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
   
   - Unsupervised Recurrent Hyperspectral Imagery Super-Resolution Using Pixel-Aware Refinement, IEEE TGRS2021, Wei Wei, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9292466)][[Web](https://sites.google.com/site/leizhanghyperspectral/home)] 
 
-- Exploring the Relationship Between 2D/3D Convolution for Hyperspectral Image Super-Resolution, IEEE TGRS 2021, Qi Wang et al. [[Web](https://crabwq.github.io/)][[Pdf](https://ieeexplore.ieee.org/abstract/document/9334383)] 
-
 - A Band Divide-and-Conquer Multispectral and Hyperspectral Image Fusion Method, IEEE TGRS 2021, Weiwei Sun et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9363338)] 
 
 - Hyperspectral Image Super-Resolution via Deep Progressive Zero-Centric Residual Learning, IEEE TIP 2021, Zhiyu Zhu et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9298460)] 
@@ -272,7 +270,7 @@ According to whether or not to use auxiliary information (PAN image/RGB image/mu
 
 - Spatial-Spectral Feedback Network for Super-Resolution of Hyperspectral Imagery, arXiv 2021, Enhai Liu et al. [[Web](https://scholar.google.com.hk/citations?user=sgWhbbAAAAAJ&hl=zh-CN)][[Pdf](https://arxiv.org/pdf/2103.04354.pdf)] 
 
-
+- Exploring the Relationship Between 2D/3D Convolution for Hyperspectral Image Super-Resolution, IEEE TGRS 2021, Qi Wang et al. [[Web](https://crabwq.github.io/)][[Pdf](https://ieeexplore.ieee.org/abstract/document/9334383)] 
 
 
 ================================================================================
