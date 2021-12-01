@@ -28,7 +28,7 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 ### 1. SpatioSpectral Super-Resolution (SSSR)
 - Spatial and spectral joint super-resolution using convolutional neural network, TGRS 2020, S. Mei et al. 
 - Multi-task Interaction learning for Spatiospectral Image Super-Resolution, Q. Ma et al. submitted to IEEE TIP, in peer review.
-- Deep Unfolding Network for Spatiospectral Image Super-Resolution, Q. Ma et al. submitted to IEEE TCI, minor revision. [[Code]https://github.com/junjun-jiang/US3RN]
+- Deep Unfolding Network for Spatiospectral Image Super-Resolution, Q. Ma et al. submitted to IEEE TCI, minor revision. [[Code](https://github.com/junjun-jiang/US3RN)]
 
 ====================================================================================
 
