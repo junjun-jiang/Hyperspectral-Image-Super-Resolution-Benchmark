@@ -1,7 +1,7 @@
 # Hyperspectral-Image-Super-Resolution-Benchmark
 A list of hyperspectral image super-resolution resources collected by [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun). If you find that important resources are not included, please feel free to contact me.
 
-Hyperspectral image super-resolution is a kind of technique that can generate a high spatial and high spectral resolution image from one of the following observed data (1) low-resolution multispectral image, e.g., RGB image, (2) low-resolution hyperspectral image, or (3) high-resolution multispectral image and low-resolution hyperspectral image. According to kind of obsearved data, hyperspectral image super-resolution techniques can be divided into two classes: joint spatial and spectral super-resolution, i.e., spatiospectral super-resolution (SSSR), single hyperspectral image super-resolution (SHSR), and multispectral image and hyperspectral image (MHF).
+Hyperspectral image super-resolution is a kind of technique that can generate a high spatial and high spectral resolution image from one of the following observed data (1) low-resolution multispectral image, e.g., RGB image, (2) low-resolution hyperspectral image, or (3) high-resolution multispectral image and low-resolution hyperspectral image. According to kind of observed data, hyperspectral image super-resolution techniques can be divided into two classes: joint spatial and spectral super-resolution, i.e., spatiospectral super-resolution (SSSR), single hyperspectral image super-resolution (SHSR), and multispectral image and hyperspectral image (MHF).
 
 ====================================================================================
 ### 0. Pioneer Work and Technique Review
@@ -103,10 +103,11 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 - Exploring the Relationship Between 2D/3D Convolution for Hyperspectral Image Super-Resolution, IEEE TGRS 2021, Qi Wang et al. [[Web](https://crabwq.github.io/)][[Pdf](https://ieeexplore.ieee.org/abstract/document/9334383)] 
 
-- Hyperspectral Image Super-Resolution via Recurrent Feedback Embedding and Spatial-Spectral Consistency Regularization, IEEE RGS 2021, W. Wang et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9380508)]
+- Hyperspectral Image Super-Resolution via Recurrent Feedback Embedding and Spatial-Spectral Consistency Regularization, IEEE RGS 2021, Xinya Wang et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9380508)]
 
 - Hyperspectral Image Super-Resolution Using Spectrum and Feature Context, IEEE TIM 2021, Qi Wang et al. [[Web](https://crabwq.github.io/)][[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9264655)]
 
+- Dilated projection correction network based on autoencoder for hyperspectral image super-resolution, Neural Networks 2022, X. Wang et al.
 ====================================================================================
 
 ### 3. Multispectral and Hyperspectral Image Fusion (MHF)
