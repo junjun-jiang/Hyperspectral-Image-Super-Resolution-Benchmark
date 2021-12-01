@@ -1,7 +1,7 @@
 # Hyperspectral-Image-Super-Resolution-Benchmark
 A list of hyperspectral image super-resolution resources collected by [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun). If you find that important resources are not included, please feel free to contact me.
 
-Hyperspectral image super-resolution is a kind of technique that can generate a high spatial and high spectral resolution image from one of the following obsearved data (1) low-resolution multispectral image, e.g., RGB image, (2) low-resolution hyperspectral image, or (3) high-resolution multispectral image and low-resolution hyperspectral image. According to kind of obsearved data, hyperspectral image super-resolution techniques can be divided into two classes: joint spatial and spectral super-resolution, i.e., spatiospectral super-resolution (SSSR), single hyperspectral image super-resolution (SHSR), and multispectral image and hyperspectral image (MHF).
+Hyperspectral image super-resolution is a kind of technique that can generate a high spatial and high spectral resolution image from one of the following observed data (1) low-resolution multispectral image, e.g., RGB image, (2) low-resolution hyperspectral image, or (3) high-resolution multispectral image and low-resolution hyperspectral image. According to kind of obsearved data, hyperspectral image super-resolution techniques can be divided into two classes: joint spatial and spectral super-resolution, i.e., spatiospectral super-resolution (SSSR), single hyperspectral image super-resolution (SHSR), and multispectral image and hyperspectral image (MHF).
 
 ================================================================================
 ### 0. Pioneer Work and Technique Review
@@ -26,7 +26,7 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 ================================================================================
 
 ### 1. SpatioSpectral Super-Resolution (SSSR)
-- Spatial and spectral joint super-resolution using convolutional neural network, TGRS 2020, S. Mei et al. [[PDF]https://ieeexplore.ieee.org/abstract/document/8974222]
+- Spatial and spectral joint super-resolution using convolutional neural network, TGRS 2020, S. Mei et al. 
 - Multi-task Interaction learning for Spatiospectral Image Super-Resolution, Q. Ma et al. submitted to IEEE TIP, in peer review.
 - Deep Unfolding Network for Spatiospectral Image Super-Resolution, Q. Ma et al. submitted to IEEE TCI, minor revision. [[Code]https://github.com/junjun-jiang/US3RN]
 
