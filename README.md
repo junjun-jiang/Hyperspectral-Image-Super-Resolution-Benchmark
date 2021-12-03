@@ -3,7 +3,7 @@ A list of hyperspectral image super-resolution resources collected by [Junjun Ji
 
 Hyperspectral image super-resolution is a kind of technique that can generate a high spatial and high spectral resolution image from one of the following observed data (1) low-resolution multispectral image, e.g., RGB image, (2) low-resolution hyperspectral image, or (3) high-resolution multispectral image and low-resolution hyperspectral image. According to kind of observed data, hyperspectral image super-resolution techniques can be divided into two classes: joint spatial and spectral super-resolution, i.e., spatiospectral super-resolution (SSSR), single hyperspectral image super-resolution (SHSR), and multispectral image and hyperspectral image (MHF).
 
-====================================================================================
+========================================================================
 ### 0. Pioneer Work and Technique Review
 - Unmixing based multisensor multiresolution image fusion, TGRS1999, B. Zhukov et al.
 
@@ -23,14 +23,14 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 [[PDF](http://naotoyokoya.com/assets/pdf/NYokoyaGRSM2017.pdf)]
 [[Code](https://openremotesensing.net/wp-content/uploads/2017/11/HSMSFusionToolbox.zip)]
 
-====================================================================================
+========================================================================
 
 ### 1. SpatioSpectral Super-Resolution (SSSR)
 - Spatial and spectral joint super-resolution using convolutional neural network, TGRS 2020, S. Mei et al. 
 - 【*Our work*】Multi-task Interaction learning for Spatiospectral Image Super-Resolution, Q. Ma et al. submitted to IEEE TIP, in peer review.
 - 【*Our work*】Deep Unfolding Network for Spatiospectral Image Super-Resolution, Q. Ma et al. submitted to IEEE TCI, minor revision. [[Code](https://github.com/junjun-jiang/US3RN)]
 
-====================================================================================
+========================================================================
 
 ### 2. Single Hyperspectral Image Super-Resolution (SHSR)
 
@@ -108,7 +108,7 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 - Hyperspectral Image Super-Resolution Using Spectrum and Feature Context, IEEE TIM 2021, Qi Wang et al. [[Web](https://crabwq.github.io/)][[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9264655)]
 
 - Dilated projection correction network based on autoencoder for hyperspectral image super-resolution, Neural Networks 2022, X. Wang et al.
-====================================================================================
+========================================================================
 
 ### 3. Multispectral and Hyperspectral Image Fusion (MHF)
 ###### 1) Bayesian based approaches
@@ -312,9 +312,7 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 - Deep Blind Hyperspectral Image Fusion, ICCV2019, Wu Wang et al. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Deep_Blind_Hyperspectral_Image_Fusion_ICCV_2019_paper.pdf)]
 
 - Unsupervised and Unregistered Hyperspectral Image Super-Resolution With Mutual Dirichlet-Net, IEEE TGRS 2021, Y. Qu et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9442804)]
- 
-
-====================================================================================
+ ========================================================================
 
 #### Databases
 - [CAVE dataset](http://www.cs.columbia.edu/CAVE/databases/multispectral/)
