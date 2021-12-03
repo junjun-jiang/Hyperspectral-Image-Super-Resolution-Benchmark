@@ -108,6 +108,7 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 - Hyperspectral Image Super-Resolution Using Spectrum and Feature Context, IEEE TIM 2021, Qi Wang et al. [[Web](https://crabwq.github.io/)][[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9264655)]
 
 - Dilated projection correction network based on autoencoder for hyperspectral image super-resolution, Neural Networks 2022, X. Wang et al.
+
 ========================================================================
 
 ### 3. Multispectral and Hyperspectral Image Fusion (MHF)
@@ -312,7 +313,8 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 - Deep Blind Hyperspectral Image Fusion, ICCV2019, Wu Wang et al. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Deep_Blind_Hyperspectral_Image_Fusion_ICCV_2019_paper.pdf)]
 
 - Unsupervised and Unregistered Hyperspectral Image Super-Resolution With Mutual Dirichlet-Net, IEEE TGRS 2021, Y. Qu et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9442804)]
- ========================================================================
+ 
+========================================================================
 
 #### Databases
 - [CAVE dataset](http://www.cs.columbia.edu/CAVE/databases/multispectral/)
@@ -323,7 +325,7 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 - [Chikusei dataset](https://www.sal.t.u-tokyo.ac.jp/hyperdata/)
 - [Indian Pines, Salinas, KSC et al.](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)
 
-====================================================================================
+=========================================================================
 
 #### Image Quality Measurement
 - Peak Signal to Noise Ratio (PSNR)
