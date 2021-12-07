@@ -294,7 +294,7 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 - Hyperspectral Image Super-Resolution via Deep Progressive Zero-Centric Residual Learning, IEEE TIP 2021, Zhiyu Zhu et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9298460)]
 
-- Hyperspectral Image Super-Resolution via Deep Prior Regularization with Parameter Estimation, IEEE TCSVT 2021, X. Wang et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9427207)]
+- Hyperspectral Image Super-Resolution via Deep Prior Regularization with Parameter Estimation, IEEE TCSVT 2021, X. Wang et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9427207)][[Code](https://github.com/XiuhengWang/Sylvester_TSFN_MDC_HSI_superresolution)]
 
 - Hyperspectral Image Super-Resolution with Self-Supervised Spectral-Spatial Residual Network, RS 2021, W. Chen et al. [[Pdf](https://www.mdpi.com/2072-4292/13/7/1260)]
 
