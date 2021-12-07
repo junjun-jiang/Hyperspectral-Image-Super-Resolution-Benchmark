@@ -89,7 +89,7 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 - Hyperspectral Image Super-Resolution by Band Attention Through Adversarial Learning, IEEE TGRS 2020, Jiaojiao Li et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/8960413)] 
 
-- 【*Our work*】Learning Spatial-Spectral Prior for Super-Resolution of Hyperspectral Imagery, IEEE TCI 2020, Junjun Jiang et al. [[Code](https://github.com/junjun-jiang/SSPSR)][[Pdf](https://arxiv.org/abs/2005.08752)] **This is our method and achieves state-of-the-art performance for Single Hyperspectral Image Super-Resolution (SHSR) task**
+- 【*Our work*】Learning Spatial-Spectral Prior for Super-Resolution of Hyperspectral Imagery, IEEE TCI 2020, Junjun Jiang et al. [[Code](https://github.com/junjun-jiang/SSPSR)][[Pdf](https://arxiv.org/abs/2005.08752)] **It achieves state-of-the-art performance for Single Hyperspectral Image Super-Resolution (SHSR) task**
 
 - Bidirectional 3D Quasi-Recurrent Neural Networkfor Hyperspectral Image Super-Resolution, IEEE JStars 2021, Ying Fu et al. [[Web](https://ying-fu.github.io/)][[Pdf](https://ieeexplore.ieee.org/document/9351612)] 
 
@@ -302,7 +302,7 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 - Model-Guided Deep Hyperspectral Image Super-Resolution, IEEE TIP 2021, W. Dong et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9429905)] [[Web](https://see.xidian.edu.cn/faculty/wsdong/Projects/MoG-DCN.htm)]
 
-- 【*Our work*】Learning A 3D-CNN and Transformer Prior for hyperspectral Image Super-Resolution, arXiv 2021, Q. Ma et al. [[Pdf](https://arxiv.org/abs/2111.13923)] **This is our method and achieves state-of-the-art performance for Multispectral and Hyperspectral Image Fusion (MHF) task**
+- 【*Our work*】Learning A 3D-CNN and Transformer Prior for hyperspectral Image Super-Resolution, arXiv 2021, Q. Ma et al. [[Pdf](https://arxiv.org/abs/2111.13923)] **It achieves state-of-the-art performance for Multispectral and Hyperspectral Image Fusion (MHF) task**
 
 
 
