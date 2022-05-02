@@ -31,9 +31,9 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 - 【*Our work*】Deep Unfolding Network for Spatiospectral Image Super-Resolution, Q. Ma et al. IEEE TCI 2022. [[Code](https://github.com/junjun-jiang/US3RN)]
 
 ### 2. Spectral Super-Resolution (SSR)
-- MST++: Multi-stage Spectral-wise Transformer for Efficient Spectral Reconstruction, CVPRW 2022, Y. Cai et al. [[PDF](https://arxiv.org/pdf/2203.02149.pdf)][[Code](ttps://github.com/caiyuanhao1998/HDNet)]
+- MST++: Multi-stage Spectral-wise Transformer for Efficient Spectral Reconstruction, CVPRW 2022, Y. Cai et al. [[PDF](https://arxiv.org/pdf/2203.02149.pdf)][[Code](https://github.com/caiyuanhao1998/HDNet)]
 - HDNet: High-resolution Dual-domain Learning for Spectral Compressive Imaging, CVPR 2022, Y. Cai et al. (Winner of NTIRE 2022 Challenge on Spectral Reconstruction from RGB)[[PDF](https://arxiv.org/pdf/2204.07908.pdf)][[Code](https://github.com/caiyuanhao1998/MST-plus-plus)] 
-- Mask-guided Spectral-wise Transformer for Efficient Hyperspectral Image Reconstruction, CVPR 2022, Y. Cai et al. [[PDF](https://arxiv.org/pdf/2111.07910.pdf)][[Code](ttps://github.com/caiyuanhao1998/MST)]
+- Mask-guided Spectral-wise Transformer for Efficient Hyperspectral Image Reconstruction, CVPR 2022, Y. Cai et al. [[PDF](https://arxiv.org/pdf/2111.07910.pdf)][[Code](https://github.com/caiyuanhao1998/MST)]
 ========================================================================
 
 ### 3. Single Hyperspectral Image Super-Resolution (SHSR)
