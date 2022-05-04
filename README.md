@@ -32,10 +32,19 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 ### 2. Spectral Super-Resolution (SSR)
 - NTIRE 2018 Challenge on Spectral Reconstruction from RGB Images, CVPRW 2018, Boaz Arad et al.
+ 
 - NTIRE 2020 Challenge on Spectral Reconstruction from an RGB Image, CVPRW 2020, Boaz Arad et al.
+
+- NTIRE 2022 Challenge on Stereo Image Super-Resolution: Methods and Results, CVPRW2022, L Wang et al.
+
 - MST++: Multi-stage Spectral-wise Transformer for Efficient Spectral Reconstruction, CVPRW 2022, Y. Cai et al. (Winner of NTIRE 2022 Challenge on Spectral Reconstruction from RGB)[[PDF](https://arxiv.org/pdf/2204.07908)][[Code](https://github.com/caiyuanhao1998/MST-plus-plus)]
+
 - HDNet: High-resolution Dual-domain Learning for Spectral Compressive Imaging, CVPR 2022, Y. Cai et al. [[PDF](https://arxiv.org/pdf/2203.02149.pdf)][[Code](https://github.com/caiyuanhao1998/HDNet)] 
+
 - Mask-guided Spectral-wise Transformer for Efficient Hyperspectral Image Reconstruction, CVPR 2022, Y. Cai et al. [[PDF](https://arxiv.org/pdf/2111.07910.pdf)][[Code](https://github.com/caiyuanhao1998/MST)]
+
+- HASIC-Net: Hybrid Attentional Convolutional Neural Network With Structure Information Consistency for Spectral Super-Resolution of RGB Images, TGRS 2022, J LI et al.
+
 ========================================================================
 
 ### 3. Single Hyperspectral Image Super-Resolution (SHSR)
@@ -115,6 +124,8 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 - Dilated projection correction network based on autoencoder for hyperspectral image super-resolution, Neural Networks 2022, X. Wang et al.
 
+- Hyperspectral Image Super-Resolution with RGB Image Super-Resolution as an Auxiliary Task, WACV 2022, K Li et al. [[PDF](https://openaccess.thecvf.com/content/WACV2022/papers/Li_Hyperspectral_Image_Super-Resolution_With_RGB_Image_Super-Resolution_as_an_Auxiliary_WACV_2022_paper.pdf)] [[Code](https://github.com/kli8996/HSISR)]
+
 ========================================================================
 
 ### 4. Multispectral and Hyperspectral Image Fusion (MHF)
@@ -186,6 +197,8 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 - Hyperspectral Image Superresolution Using Global Gradient Sparse and Nonlocal Low-Rank Tensor Decomposition With Hyper-Laplacian Prior, IEEE JStars 2021, Y. Peng et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9417623)]
 
 - Hyperspectral Image Superresolution via Structure-Tensor-Based Image Matting, IEEE JStars 2021, H. Gao et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9508188)]
+
+- Hyperspectral super-resolution via coupled tensor ring factorization, PR 2022, W He, et al. [[PDF](https://arxiv.org/pdf/2001.01547)] [[Code](https://github.com/jpfeiffe/CTRF)]
 
 
 ###### 3) Matrix factorization based approaches
@@ -311,6 +324,8 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 - 【*Our work*】Learning A 3D-CNN and Transformer Prior for hyperspectral Image Super-Resolution, arXiv 2021, Q. Ma et al. [[Pdf](https://arxiv.org/abs/2111.13923)] **It achieves state-of-the-art performance for Multispectral and Hyperspectral Image Fusion (MHF) task**
 
 - Hyperspectral Image Super-resolution with Deep Priors and Degradation Model Inversion, ICASSP 2022, X. Wang et al. [[Pdf](https://arxiv.org/abs/2201.09851)][[Code](https://github.com/xiuheng-wang/Deep_gradient_HSI_superresolution)]
+
+- Model Inspired Autoencoder for Unsupervised Hyperspectral Image Super-Resolution, TGRS 2022, J Liu et al. [[Pdf](https://arxiv.org/pdf/2110.11591)] [[Code](https://github.com/liuofficial/MIAE)]
 
 ###### 5) Simulations registration and super-resolution approaches
  
