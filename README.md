@@ -356,4 +356,4 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 - Erreur Relative Globale Adimensionnelle de Synthèse (ERGAS)
 - Universal Image Quality Index (UIQI)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=junjun-jiang/Hyperspectral-Image-Super-Resolution-Benchmark) since 2022/5/7
+![visitors](https://visitor-badge.glitch.me/badge?page_id=junjun-jiang/Hyperspectral-Image-Super-Resolution-Benchmark) Since 2022/5/7
