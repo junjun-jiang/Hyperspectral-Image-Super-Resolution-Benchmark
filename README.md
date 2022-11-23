@@ -153,6 +153,9 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 - Learning Deep Resonant Prior for Hyperspectral Image Super-Resolution, TGRS 2022, Z Gong, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9804845)]
 
+- GJTD-LR: A Trainable Grouped Joint Tensor Dictionary With Low-Rank Prior for Single Hyperspectral Image Super-Resolution, TGRS 2022, C Liu, rt al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9875321)]
+
+
 
 ========================================================================
 
@@ -364,6 +367,8 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 - Model inspired autoencoder for unsupervised hyperspectral image super-resolution, TGRS 2022, J Liu, et al.
 
 - Symmetrical Feature Propagation Network for Hyperspectral Image Super-Resolution, TGRS 2022, Q Li, et al.
+
+- Context-Aware Guided Attention Based Cross-Feedback Dense Network for Hyperspectral Image Super-Resolution, TGRS 2022, W Dong, et al.
 
 
 
