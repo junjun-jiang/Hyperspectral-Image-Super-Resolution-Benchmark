@@ -29,6 +29,12 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 - Recent Advances and New Guidelines on Hyperspectral and Multispectral Image Fusion, Information Fusion2021, RW Dian, et al.
 [[PDF](https://arxiv.org/pdf/2008.03426.pdf)]
 
+- Spectral super-resolution meets deep learning: Achievements and challenges, Information Fusion2023, Jiang He, et al.
+  [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253523001215)]
+
+- A Review of Hyperspectral Image Super-Resolution Based on Deep Learning, Remote Sensing2023, Chi Chen, et al.
+  [[PDF](https://www.mdpi.com/2072-4292/15/11/2853)]
+
 ========================================================================
 
 ### 1. SpatioSpectral Super-Resolution (SSSR)
@@ -59,6 +65,18 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 - DRCR Net: Dense Residual Channel Re-calibration Network with Non-local Purification for Spectral Super Resolution, CVPRW 2022, JJ LI, et al.
 
 - DsTer: A dense spectral transformer for remote sensing spectral super-resolution, International Journal of Applied Earth Observation and Geoinformation 2022, J He, et al.
+
+- Implicit Neural Representation Learning for Hyperspectral Image Super-Resolution, TGRS 2022, K Zhang, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9991174)]
+
+- PoNet: A universal physical optimization-based spectral super-resolution network for arbitrary multispectral images, Information Fusion 2022, J He, et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S156625352100227X)]
+
+- Spectral super-resolution via model-guided cross-fusion network, TNNLS 2023, R Dian, et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10028670)] [[Code](https://github.com/renweidian)]
+
+- A self-supervised remote sensing image fusion framework with dual-stage self-learning and spectral super-resolution injection, JPRS 2023, J He, et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S0924271623002356)]
+
+- Learning Spectral-wise Correlation for Spectral Super-Resolution: Where Similarity Meets Particularity, ACM MM 2023, H Wang, et al. [[PDF](https://dl.acm.org/doi/abs/10.1145/3581783.3611760)]
+
+- Hprn: Holistic prior-embedded relation network for spectral super-resolution，TNNLS 2023, C Wu, et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10091189)]
 
 ========================================================================
 
@@ -155,6 +173,19 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 - GJTD-LR: A Trainable Grouped Joint Tensor Dictionary With Low-Rank Prior for Single Hyperspectral Image Super-Resolution, TGRS 2022, C Liu, rt al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9875321)]
 
+- Dual-Stage Approach Toward Hyperspectral Image Super-Resolution, TIP 2022, Q Li, et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9953047)]
+
+- Interactformer: Interactive Transformer and CNN for Hyperspectral Image Super-Resolution, TGRS 2022, Y Liu, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9796466)]
+
+- Deep Posterior Distribution-Based Embedding for Hyperspectral Image Super-Resolution, TIP 2022, J Hou, et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9870666)]
+
+- ESSAformer: Efficient Transformer for Hyperspectral Image Super-resolution, ICCV 2023, M Zhang, et al. [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_ESSAformer_Efficient_Transformer_for_Hyperspectral_Image_Super-resolution_ICCV_2023_paper.pdf)]
+
+- An efficient unfolding network with disentangled spatial-spectral representation for hyperspectral image super-resolution, Information Fusion 2023, D Liu, et al. [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253523000258)]
+
+- 3D-CNNHSR: A 3-Dimensional Convolutional Neural Network for Hyperspectral Super-Resolution, CSSE 2023, M A Haq, et al. [[PDF](https://cdn.techscience.cn/files/csse/2023/TSP_CSSE-47-2/TSP_CSSE_39904/TSP_CSSE_39904.pdf)]
+
+- MSDformer: Multiscale Deformable Transformer for Hyperspectral Image Super-Resolution, TGRS 2023, S Chen, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10252045)]
 
 
 ========================================================================
@@ -188,6 +219,7 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 [[PDF](https://arxiv.org/pdf/1709.00192.pdf)]
 
 - Enhanced Hyperspectral Image Super-Resolution via RGB Fusion and TV-TV Minimization, ICIP 2021, Marija Vella et al. [[PDF](https://arxiv.org/abs/2106.07066)][[Code](https://github.com/marijavella/hs-sr-tvtv)]
+
 
 ###### 2) Tensor based approaches
 - Hyperspectral image superresolution via non-local sparse tensor factorization, CVPR2017, R. Dian et al.
@@ -232,6 +264,10 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 - Hyperspectral super-resolution via coupled tensor ring factorization, PR 2022, W He, et al. [[PDF](https://arxiv.org/pdf/2001.01547)] [[Code](https://github.com/jpfeiffe/CTRF)]
 
 - Coupled Tensor Block Term Decomposition with Superpixel-Based Graph Laplacian Regularization for Hyperspectral Super-Resolution, RS 2022, H Liu, et al. [[PDF](https://www.mdpi.com/2072-4292/14/18/4520)]
+
+- Hyperspectral and Multispectral Image Fusion Using Factor Smoothed Tensor Ring Decomposition, TGRS 2022, Y Chen, et al. [[PDF](https://chenyong1993.github.io/yongchen.github.io/papers/2021/Chen_Zeng_TGRS2021.pdf)]
+
+- An Iterative Regularization Method Based on Tensor Subspace Representation for Hyperspectral Image Super-Resolution, TGRS 2022, T Xu, et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9777947)]
 
 
 ###### 3) Matrix factorization based approaches
@@ -295,6 +331,11 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
  - A Truncated Matrix Decomposition for Hyperspectral Image Super-Resolution, TIP2020, Jianjun Liu et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9147021)]
 
 - Adaptive Nonnegative Sparse Representation for Hyperspectral Image Super-Resolution, IEEE JStars 2021, X. Li et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9399788)]
+  
+- Model Inspired Autoencoder for Unsupervised Hyperspectral Image Super-Resolution, TGRS 2022, J Liu, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9681709)]
+
+- Hyperspectral and Multispectral Image Fusion via Superpixel-Based Weighted Nuclear Norm Minimization, TGRS 2023, J Zhang, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10231145)]
+
  
 ###### 4) Deep Learning based approaches
 - Deep Residual Convolutional Neural Network for Hyperspectral Image Super-Resolution, ICIG2017, C. Wang et al.
@@ -354,8 +395,6 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 - Model-Guided Deep Hyperspectral Image Super-Resolution, IEEE TIP 2021, W. Dong et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9429905)] [[Web](https://see.xidian.edu.cn/faculty/wsdong/Projects/MoG-DCN.htm)]
 
-- 【*Our work*】Learning A 3D-CNN and Transformer Prior for hyperspectral Image Super-Resolution, arXiv 2021, Q. Ma et al. [[Pdf](https://arxiv.org/abs/2111.13923)] **It achieves state-of-the-art performance for Multispectral and Hyperspectral Image Fusion (MHF) task**
-
 - Hyperspectral Image Super-resolution with Deep Priors and Degradation Model Inversion, ICASSP 2022, X. Wang et al. [[Pdf](https://arxiv.org/abs/2201.09851)][[Code](https://github.com/xiuheng-wang/Deep_gradient_HSI_superresolution)]
 
 - Model Inspired Autoencoder for Unsupervised Hyperspectral Image Super-Resolution, TGRS 2022, J Liu et al. [[Pdf](https://arxiv.org/pdf/2110.11591)] [[Code](https://github.com/liuofficial/MIAE)]
@@ -369,6 +408,49 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 - Symmetrical Feature Propagation Network for Hyperspectral Image Super-Resolution, TGRS 2022, Q Li, et al.
 
 - Context-Aware Guided Attention Based Cross-Feedback Dense Network for Hyperspectral Image Super-Resolution, TGRS 2022, W Dong, et al.
+
+- Hyperspectral Image Super-Resolution With RGB Image Super-Resolution as an Auxiliary Task, WACV 2022, K Li, et al.
+
+- Hyperspectral and Multispectral Image Fusion Via Self-Supervised Loss and Separable Loss, TGRS 2022, H Gao, et al. [[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9893568)]
+
+- A Spatial–Spectral Dual-Optimization Model-Driven Deep Network for Hyperspectral and Multispectral Image Fusion, TGRS 2022, W Dong, et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9938429)]
+
+- Symmetrical Feature Propagation Network for Hyperspectral Image Super-Resolution, TGRS 2022, Q Li, ey al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9874913)]
+
+- GuidedNet: A General CNN Fusion Framework via High-Resolution Guidance for Hyperspectral Image Super-Resolution, TCyb 2023, R Ran, et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10035506)]
+
+- HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models, ICCV 2023, C Wu, et al. [[Pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.pdf)]
+
+- Decoupled-and-coupled networks: Self-supervised hyperspectral image super-resolution with subpixel fusion, TGRS 2023, D Hong, et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10285378)]
+
+- 【*Our work*】Learning A 3D-CNN and Transformer Prior for hyperspectral Image Super-Resolution, Information Fusion 2023, Q. Ma, et al. [[Pdf](https://www.sciencedirect.com/science/article/pii/S1566253523002233)]
+
+- Model-Guided Coarse-to-Fine Fusion Network for Unsupervised Hyperspectral Image Super-Resolution, GRSL 2023, J Li, et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10233913)]
+
+- Hyperspectral Image Super-Resolution via Knowledge-Driven Deep Unrolling and Transformer Embedded Convolutional Recurrent Neural Network, TIP 2023, K Wang, et al. [[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10188591)]
+
+- Toward Stable, Interpretable, and Lightweight Hyperspectral Super-resolution, CVPR 2023, W Guo, et al. [[Pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_Toward_Stable_Interpretable_and_Lightweight_Hyperspectral_Super-Resolution_CVPR_2023_paper.pdf)]
+
+- Enhanced Autoencoders With Attention-Embedded Degradation Learning for Unsupervised Hyperspectral Image Super-Resolution, TGRS 2023, L Gao, et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10103688)]
+
+- X-Shaped Interactive Autoencoders With Cross-Modality Mutual Learning for Unsupervised Hyperspectral Image Super-Resolution, TGRS 2023, J Li, et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10197521)]
+
+- Diffused Convolutional Neural Network for Hyperspectral Image Super-Resolution, TGRS 2023, S Jia, et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10057005)]
+
+- Hierarchical spatio-spectral fusion for hyperspectral image super resolution via sparse representation and pre-trained deep model, KBS 2023, J Yang, et al. [[Pdf](https://www.sciencedirect.com/science/article/pii/S0950705122012667)]
+
+- Hyperspectral Image Super-Resolution Network Based on Cross-Scale Nonlocal Attention, TGRS 2023, S Li, et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/10108986)]
+
+- 【*Our work*】Reciprocal Transformer for Hyperspectral and Multispectral Image Fusion, Information Fusion 2023, Q. Ma, et al. [[Pdf](https://www.sciencedirect.com/science/article/pii/S1566253523004645)]
+
+- Multiscale spatial–spectral transformer network for hyperspectral and multispectral image fusion, Information Fusion 2023, S Jia, et al. [[Pdf](https://www.sciencedirect.com/science/article/pii/S1566253523000921)]
+
+- A Self-Supervised Deep Denoiser for Hyperspectral and Multispectral Image Fusion, TGRS 2023, Z Wang, et al. [[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10214391)]
+
+- FTDN: Multispectral and Hyperspectral Image Fusion With Diverse Temporal Difference Spans, TRGS 2023, X Chen, et al. [[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184199)]
+
+
+
 
 
 
@@ -396,6 +478,8 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 - [NTIRE18 dataset](http://www.vision.ee.ethz.ch/ntire18/)
 - [Chikusei dataset](https://www.sal.t.u-tokyo.ac.jp/hyperdata/)
 - [Indian Pines, Salinas, KSC et al.](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)
+- [HSI Human Brain image database, H Fabelo et al.](https://ieeexplore.ieee.org/document/8667294)
+
 
 =========================================================================
 
