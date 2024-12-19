@@ -202,6 +202,19 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 - MSDformer: Multiscale Deformable Transformer for Hyperspectral Image Super-Resolution, TGRS 2023, S Chen, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10252045)]
 
+- Cross-Scope Spatial-Spectral Information Aggregation for Hyperspectral Image Super-Resolution, TIP 2024, Shi Chen, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10719621)] [[Code](https://github.com/Tomchenshi/CST.git)]
+
+- Deep blind super-resolution for hyperspectral images, Pattern Recognition 2024, Pei Yang, et al. [[PDF](https://doi.org/10.1016/j.patcog.2024.110916)] [[Code](https://github.com/YoungP2001/DBSR)]
+
+- Exploring the Spectral Prior for Hyperspectral Image Super-Resolution, TIP 2024, Qian Hu, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10684390)] [[Code](https://github.com/HuQ1an/SNLSR)]
+
+- General Hyperspectral Image Super-Resolution via Meta-Transfer Learning, TNNLS 2024, Yingsong Cheng, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10506110)]
+
+- Test-time Training for Hyperspectral Image Super-resolution, TPAMI 2024, Ke Li, et al. [[PDF](https://arxiv.org/pdf/2409.08667)]
+
+- TTST: A Top-k Token Selective Transformer for Remote Sensing Image Super-Resolution, TIP 2024, Yi Xiao, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10387229)] [[Code](https://github.com/XYboy/TTST)]
+
+
 
 ========================================================================
 
