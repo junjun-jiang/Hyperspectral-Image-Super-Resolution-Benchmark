@@ -79,8 +79,6 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 - Learning Spectral-wise Correlation for Spectral Super-Resolution: Where Similarity Meets Particularity, ACM MM 2023, H Wang, et al. [[PDF](https://dl.acm.org/doi/abs/10.1145/3581783.3611760)]
 
-- Hprn: Holistic prior-embedded relation network for spectral super-resolution，TNNLS 2023, C Wu, et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10091189)]
-
 - HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models, ICCV 2023, Chanyue Wu, et al.  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10377416)]
 
 - DDS2M: Self-Supervised Denoising Diffusion Spatio-Spectral Model for Hyperspectral Image Restoration，ICCV 2023, Yuchun Miao, et al. [[PDF](https://arxiv.org/pdf/2303.06682)] [[Code](https://github.com/miaoyuchun/DDS2M)]
