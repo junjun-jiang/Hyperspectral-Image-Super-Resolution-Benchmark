@@ -297,6 +297,8 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 - An Iterative Regularization Method Based on Tensor Subspace Representation for Hyperspectral Image Super-Resolution, TGRS 2022, T Xu, et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9777947)]
 
+- Hyperspectral Image Fusion via a Novel Generalized Tensor Nuclear Norm Regularization, TNNLS 2024, Renwei Dian, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10522984)]
+
 
 ###### 3) Matrix factorization based approaches
 - High-resolution hyperspectral imaging via matrix factorization, CVPR2011, R. Kawakami et al.
@@ -476,6 +478,10 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 - A Self-Supervised Deep Denoiser for Hyperspectral and Multispectral Image Fusion, TGRS 2023, Z Wang, et al. [[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10214391)]
 
 - FTDN: Multispectral and Hyperspectral Image Fusion With Diverse Temporal Difference Spans, TRGS 2023, X Chen, et al. [[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184199)]
+
+- Unsupervised Test-Time Adaptation Learning for Effective Hyperspectral Image Super-Resolution With Unknown Degeneration, TPAMI 2024, Lei Zhang, et al. [[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10420496)] [[Code](https://github.com/JiangtaoNie/UAL)]
+
+- CS2DIPs: Unsupervised HSI Super-Resolution Using Coupled Spatial and Spectral DIPs, TIP 2024, Yuan Fang, et al. [[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508301)] [[Code](https://github.com/Ambitionfy/CS2DIPs)]
 
 
 
