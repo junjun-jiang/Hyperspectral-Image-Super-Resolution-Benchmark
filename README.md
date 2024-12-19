@@ -35,6 +35,9 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 - A Review of Hyperspectral Image Super-Resolution Based on Deep Learning, Remote Sensing2023, Chi Chen, et al.
   [[PDF](https://www.mdpi.com/2072-4292/15/11/2853)]
 
+- Hyperspectral Image Super-Resolution Meets Deep Learning: A Survey and Perspective, IEEE/CAA Journal of Automatica Sinica2023, Xinya Wang, et al.
+  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10194239)]
+
 ========================================================================
 
 ### 1. SpatioSpectral Super-Resolution (SSSR)
