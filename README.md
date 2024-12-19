@@ -81,7 +81,19 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 - Hprn: Holistic prior-embedded relation network for spectral super-resolution，TNNLS 2023, C Wu, et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10091189)]
 
+- HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models, ICCV 2023, Chanyue Wu, et al.  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10377416)]
+
 - DDS2M: Self-Supervised Denoising Diffusion Spatio-Spectral Model for Hyperspectral Image Restoration，ICCV 2023, Yuchun Miao, et al. [[PDF](https://arxiv.org/pdf/2303.06682)] [[Code](https://github.com/miaoyuchun/DDS2M)]
+
+- HPRN: Holistic Prior-Embedded Relation Network for Spectral Super-Resolution，TNNLS 2024, Chaoxiong Wu, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10091189)] [[Code](https://github.com/Deep-imagelab/HPRN)]
+
+- Progressive Spatial Information-Guided Deep Aggregation Convolutional Network for Hyperspectral Spectral Super-Resolution，TNNLS 2024, Jiaojiao Li, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10298249)] [[Code](https://github.com/dusongcheng/SIGnet-master)]
+
+- Residual Mask in Cascaded Convolutional Transformer for Spectral Reconstruction，TGRS 2024, Jiaojiao Li, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597586)]
+
+- Spectral Super-Resolution via Deep Low-Rank Tensor Representation，TNNLS 2024, Renwei Dian, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10465659)] [[Code](https://github.com/renweidian/LTRN)]
+
+- Spectral-Cascaded Diffusion Model for Remote Sensing Image Spectral Super-Resolution，TGRS 2024, Bowen Chen, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10654291)] [[Code](https://github.com/Mr-Bamboo/SCDM)]
 
 ========================================================================
 
