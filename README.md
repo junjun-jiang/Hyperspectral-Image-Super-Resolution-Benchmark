@@ -81,6 +81,8 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 - Hprn: Holistic prior-embedded relation network for spectral super-resolution，TNNLS 2023, C Wu, et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/10091189)]
 
+- DDS2M: Self-Supervised Denoising Diffusion Spatio-Spectral Model for Hyperspectral Image Restoration，ICCV 2023, Yuchun Miao, et al. [[PDF](https://arxiv.org/pdf/2303.06682)] [[Code](https://github.com/miaoyuchun/DDS2M)]
+
 ========================================================================
 
 ### 3. Single Hyperspectral Image Super-Resolution (SHSR)
