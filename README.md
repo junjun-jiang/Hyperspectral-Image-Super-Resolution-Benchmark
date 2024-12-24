@@ -214,6 +214,8 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 - TTST: A Top-k Token Selective Transformer for Remote Sensing Image Super-Resolution, TIP 2024, Yi Xiao, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10387229)] [[Code](https://github.com/XYboy/TTST)]
 
+- Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution, TMM 2024, Yi Xiao, et al. [[PDF](https://arxiv.org/pdf/2405.04964)] [[Code](https://github.com/XY-boy/FreMamba)]
+
 
 
 ========================================================================
