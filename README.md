@@ -107,7 +107,7 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 - Integration of Multisource Spectral Libraries for Spectral Super-Resolution via Benchmark Alignment，TGRS 2025, Xiaolin Han, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10884520)]
 
-- Bidirectional Spectral Attention Multiscale Aggregation Network for Spectral Super-Resolution, TGRRS 2025, Xintao Zhong, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11018495)]
+- Bidirectional Spectral Attention Multiscale Aggregation Network for Spectral Super-Resolution, TGRS 2025, Xintao Zhong, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11018495)]
 
 ========================================================================
 
@@ -236,7 +236,7 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 - EigenSR: Eigenimage-Bridged Pre-Trained RGB Learners for Single Hyperspectral Image Super-Resolution, AAAI 2025, Xi Su, et al. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/download/32755/34910] [[Code](https://github.com/enter-i-username/EigenSR)]
 
-- Dynamic State-Control Modeling for Generalized Remote Sensing Image Super-Resolution, CVPR2025, Chenyu Li, et al. [[PDF](https://openaccess.thecvf.com/content/CVPR2025W/MORSE/papers/Li_Dynamic_State-Control_Modeling_for_Generalized_Remote_Sensing_Image_Super-Resolution_CVPRW_2025_paper.pdf]
+- Dynamic State-Control Modeling for Generalized Remote Sensing Image Super-Resolution, CVPR 2025, Chenyu Li, et al. [[PDF](https://openaccess.thecvf.com/content/CVPR2025W/MORSE/papers/Li_Dynamic_State-Control_Modeling_for_Generalized_Remote_Sensing_Image_Super-Resolution_CVPRW_2025_paper.pdf]
 
 
 
