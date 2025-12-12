@@ -38,6 +38,18 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 - Hyperspectral Image Super-Resolution Meets Deep Learning: A Survey and Perspective, IEEE/CAA Journal of Automatica Sinica2023, Xinya Wang, et al.
   [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10194239)]
 
+- Recent Advances in Diffusion Models for Hyperspectral Image Processing and Analysis: A Review, arXiv preprint arXiv2505, Xing Hu, et al.
+  [[PDF](https://arxiv.org/pdf/2505.11158)]
+
+- Diffusion Models in Low-Level Vision: A Survey, TPAMI2505, Chunming He, et al.
+  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10902142)]
+
+- Vision Mamba: A Comprehensive Survey and Taxonomy, TNNLS 2025, Xiao Liu, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11175044)]
+
+- Transformers Meet Hyperspectral Imaging: A Comprehensive Study of Models, Challenges and Open Problems, arXiv preprint arXiv2505, Guyang Zhang, et al. [[PDF](https://arxiv.org/pdf/2506.08596)]
+
+- HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model, TPAMI 2025, Di Wang, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10949864)]
+
 ========================================================================
 
 ### 1. SpatioSpectral Super-Resolution (SSSR)
@@ -92,6 +104,10 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 - Spectral Super-Resolution via Deep Low-Rank Tensor Representation，TNNLS 2024, Renwei Dian, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10465659)] [[Code](https://github.com/renweidian/LTRN)]
 
 - Spectral-Cascaded Diffusion Model for Remote Sensing Image Spectral Super-Resolution，TGRS 2024, Bowen Chen, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10654291)] [[Code](https://github.com/Mr-Bamboo/SCDM)]
+
+- Integration of Multisource Spectral Libraries for Spectral Super-Resolution via Benchmark Alignment，TGRS 2025, Xiaolin Han, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10884520)]
+
+- Bidirectional Spectral Attention Multiscale Aggregation Network for Spectral Super-Resolution, TGRRS 2025, Xintao Zhong, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11018495)]
 
 ========================================================================
 
@@ -215,6 +231,12 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 - TTST: A Top-k Token Selective Transformer for Remote Sensing Image Super-Resolution, TIP 2024, Yi Xiao, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10387229)] [[Code](https://github.com/XYboy/TTST)]
 
 - Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution, TMM 2024, Yi Xiao, et al. [[PDF](https://arxiv.org/pdf/2405.04964)] [[Code](https://github.com/XY-boy/FreMamba)]
+
+- MambaHSISR: Mamba Hyperspectral Image Super-Resolution, TGRS 2025, Yinghao Xu, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10965814)] [[Code](https://gitee.com/xu_yinghao/MambaHSISR for public evaluations)]
+
+- EigenSR: Eigenimage-Bridged Pre-Trained RGB Learners for Single Hyperspectral Image Super-Resolution, AAAI 2025, Xi Su, et al. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/download/32755/34910] [[Code](https://github.com/enter-i-username/EigenSR)]
+
+- Dynamic State-Control Modeling for Generalized Remote Sensing Image Super-Resolution, CVPR2025, Chenyu Li, et al. [[PDF](https://openaccess.thecvf.com/content/CVPR2025W/MORSE/papers/Li_Dynamic_State-Control_Modeling_for_Generalized_Remote_Sensing_Image_Super-Resolution_CVPRW_2025_paper.pdf]
 
 
 
@@ -485,10 +507,11 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 - CS2DIPs: Unsupervised HSI Super-Resolution Using Coupled Spatial and Spectral DIPs, TIP 2024, Yuan Fang, et al. [[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508301)] [[Code](https://github.com/Ambitionfy/CS2DIPs)]
 
+- Enhanced Deep Image Prior for Unsupervised Hyperspectral Image Super-Resolution, TGRS 2025, Jiaxin Li, et al. [[Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10845210)] [[Code](https://github.com/JiaxinLiCAS)]
 
+- OTIAS: OcTree Implicit Adaptive Sampling for Multispectral and Hyperspectral Image Fusion, AAAI 2025, Shangqi Deng, et al. [[Pdf](https://ojs.aaai.org/index.php/AAAI/article/download/32275/34430)] [[Code](https://github.com/shangqideng/OTIAS)]
 
-
-
+- 
 
 
 
