@@ -513,13 +513,6 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 - OTIAS: OcTree Implicit Adaptive Sampling for Multispectral and Hyperspectral Image Fusion, AAAI 2025, Shangqi Deng, et al. [[Pdf](https://ojs.aaai.org/index.php/AAAI/article/download/32275/34430)] [[Code](https://github.com/shangqideng/OTIAS)]
 
-- 
-
-
-
-
-
-
 
 ###### 5) Simulations registration and super-resolution approaches
  
