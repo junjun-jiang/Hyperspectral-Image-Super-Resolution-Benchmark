@@ -524,7 +524,7 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 ###### 6) Benchmarking framework
 
-- Hyperbench, Ritik Shah, Marco Duarte. [[Code](https://github.com/ritikgshah/HyperBench.git)]
+- Hyperbench, Ritik Shah, Marco Duarte. 2026. [[Code](https://github.com/ritikgshah/HyperBench.git)]
  
 ========================================================================
 
