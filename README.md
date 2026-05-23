@@ -50,7 +50,7 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 - HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model, TPAMI 2025, Di Wang, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10949864)]
 
-- HyperBench: HyperBench is a benchmarking framework for fusion-based hyperspectral super-resolution (HSR) methods.[[Project]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10949864](https://github.com/ritikgshah/HyperBench))]
+- HyperBench: HyperBench is a benchmarking framework for fusion-based hyperspectral super-resolution (HSR) methods.[[Project](https://github.com/ritikgshah/HyperBench)]
 
 ========================================================================
 
