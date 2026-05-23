@@ -521,6 +521,10 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 - Deep Blind Hyperspectral Image Fusion, ICCV2019, Wu Wang et al. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Deep_Blind_Hyperspectral_Image_Fusion_ICCV_2019_paper.pdf)]
 
 - Unsupervised and Unregistered Hyperspectral Image Super-Resolution With Mutual Dirichlet-Net, IEEE TGRS 2021, Y. Qu et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9442804)]
+
+###### 6) Benchmarking framework
+
+- Hyperbench, Ritik Shah, Marco Duarte. [[Code](https://github.com/ritikgshah/HyperBench.git)]
  
 ========================================================================
 
