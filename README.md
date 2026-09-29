@@ -111,6 +111,13 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 - Bidirectional Spectral Attention Multiscale Aggregation Network for Spectral Super-Resolution, TGRS 2025, Xintao Zhong, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11018495)]
 
+- Toward Open-World Spectral Super-Resolution With Solution and Frequency Decomposition, TGRS 2026, Yihong Leng, et al.
+[[Code](https://github.com/SuperiorLeo/TGRS2026-Toward-Open-World-Spectral-Super-Resolution-With-Solution-and-Frequency-Decomposition)]
+[[PDF](https://arxiv.org/search/?query=Toward+Open-World+Spectral+Super-Resolution+With+Solution+and+Frequency+Decomposition&searchtype=title)]
+
+- Spectral-Spatial Fusion Mamba for Spectral Super-Resolution from Single RGB Image, Knowledge-Based Systems 2026, Wenjing Chen, et al.
+[[PDF](https://www.sciencedirect.com/science/article/pii/S0950705126010282)]
+
 ========================================================================
 
 ### 3. Single Hyperspectral Image Super-Resolution (SHSR)
@@ -239,6 +246,9 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 - EigenSR: Eigenimage-Bridged Pre-Trained RGB Learners for Single Hyperspectral Image Super-Resolution, AAAI 2025, Xi Su, et al. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/download/32755/34910] [[Code](https://github.com/enter-i-username/EigenSR)]
 
 - Dynamic State-Control Modeling for Generalized Remote Sensing Image Super-Resolution, CVPR 2025, Chenyu Li, et al. [[PDF](https://openaccess.thecvf.com/content/CVPR2025W/MORSE/papers/Li_Dynamic_State-Control_Modeling_for_Generalized_Remote_Sensing_Image_Super-Resolution_CVPRW_2025_paper.pdf]
+
+- Multiscale Spatial-Spectral Attention Network for Arbitrary-Scale Hyperspectral Image Super-Resolution, Neurocomputing 2026, et al.
+[[PDF](https://www.sciencedirect.com/science/article/pii/S0925231225026220)]
 
 
 
@@ -404,7 +414,6 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 [[PDF](https://drive.google.com/open?id=1FIyVL9c8jlDY3heEZ57nGvpSDZc0mkeT)]
 [[Code](https://github.com/renweidian/DHSIS)]
 
-
 - HSI-DeNet: Hyperspectral Image Restoration via Convolutional Neural Network, TGRS2018, Y. Chang et al.
 [[Web](http://www.escience.cn/people/changyi/index.html)]
 
@@ -429,7 +438,7 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
  
  - Deep Blind Hyperspectral Image Super-Resolution, IEEE TNNLS 2020, Lei Zhang et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9136736)] 
 
-  - Deep Recursive Network for Hyperspectral Image Super-Resolution, IEEE TCI2020, Wei Wei, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9162463)][[Web](https://sites.google.com/site/leizhanghyperspectral/home)]
+ - Deep Recursive Network for Hyperspectral Image Super-Resolution, IEEE TCI2020, Wei Wei, et al. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9162463)][[Web](https://sites.google.com/site/leizhanghyperspectral/home)]
 
 - Coupled Convolutional Neural Network With Adaptive Response Function Learning for Unsupervised Hyperspectral Super Resolution, IEEE TGRS 2020, K. Zheng et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9141341)]
 
@@ -513,6 +522,28 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 - OTIAS: OcTree Implicit Adaptive Sampling for Multispectral and Hyperspectral Image Fusion, AAAI 2025, Shangqi Deng, et al. [[Pdf](https://ojs.aaai.org/index.php/AAAI/article/download/32275/34430)] [[Code](https://github.com/shangqideng/OTIAS)]
 
+- Unsupervised Hyperspectral Image Super-Resolution via Self-Supervised Modality Decoupling, IJCV 2026, Songcheng Du, et al.
+[[PDF](https://link.springer.com/article/10.1007/s11263-026-02757-8)]
+[[Code](https://github.com/dusongcheng/MossFuse)]
+
+- TPTransformer: Tensor-Tensor Product Transformer for Hyperspectral Image Super-Resolution, CVPR Findings 2026, Honghui Xu, et al.
+[[PDF](https://openaccess.thecvf.com/content/CVPR2026F/html/Xu_TPTransformer_Tensor-Tensor_Product_Transformer_for_Hyperspectral_Image_Super-Resolution_CVPRF_2026_paper.html)]
+
+- TM-MOE: A Degradation-Aware Transformer-Mamba MoE for Hyperspectral and Multispectral Image Fusion, TGRS 2026, et al.
+[[PDF](https://ieeexplore.ieee.org/document/11494874/)]
+[[Code](https://github.com/Abdolraheemkhader/TM-MOE)]
+
+- Arbitrary-Scale Fusion Operator for High-Resolution Hyperspectral Imaging, TMM 2026, Junwei Zhu, et al.
+[[PDF](https://doi.org/10.1109/TMM.2026.3655472)]
+
+- Dual-Stream Hierarchical Mamba for High-Resolution Hyperspectral Fusion Imaging, Information Fusion 2026, Jiayu Cui, et al.
+[[PDF](https://www.sciencedirect.com/science/article/pii/S1566253526001235)]
+[[Code](https://github.com/Darcycuis/DHMF-Net)]
+
+- A Two-Stage Conditional Diffusion Model With Differential Attention for Hyperspectral and Multispectral Image Fusion, TIP 2026, Yingxia Chen, et al.
+[[PDF](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing/2026/09/two-stage-conditional-diffusion)]
+[[Code](https://github.com/Ruijie2580/DifferentialDiff)]
+
 
 ###### 5) Simulations registration and super-resolution approaches
  
@@ -522,9 +553,17 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 - Unsupervised and Unregistered Hyperspectral Image Super-Resolution With Mutual Dirichlet-Net, IEEE TGRS 2021, Y. Qu et al. [[Pdf](https://ieeexplore.ieee.org/abstract/document/9442804)]
 
+- Enhancing Unregistered Hyperspectral Image Super-Resolution via Unmixing-Based Abundance Fusion Learning, CVPR 2026, Yingkai Zhang, Tao Zhang, Jing Nie, Ying Fu.
+[[PDF](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Enhancing_Unregistered_Hyperspectral_Image_Super-Resolution_via_Unmixing-based_Abundance_Fusion_Learning_CVPR_2026_paper.html)]
+[[Code](https://github.com/yingkai-zhang/UAFL)]
+
 ###### 6) Benchmarking framework
 
 - Hyperbench, Ritik Shah, Marco Duarte. 2026. [[Code](https://github.com/ritikgshah/HyperBench.git)]
+
+- 1st Hyperspectral Image Super-Resolution Challenge - PBVS 2026, CVPRW 2026, Thomas De Kerf, Rafael E. Rivadeneira, Leo Thomas Ramos, Angel D. Sappa, Steve Vanlanduit.
+[[PDF](https://openaccess.thecvf.com/content/CVPR2026W/PBVS/html/De_Kerf_1st_Hyperspectral_Image_Super-Resolution_Challenge_-_PBVS_2026_CVPRW_2026_paper.html)]
+[[Web](https://pbvs-workshop.github.io/challenge.html)]
  
 ========================================================================
 
