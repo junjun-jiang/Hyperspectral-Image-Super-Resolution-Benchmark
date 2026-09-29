@@ -113,7 +113,7 @@ Hyperspectral image super-resolution is a kind of technique that can generate a 
 
 - Toward Open-World Spectral Super-Resolution With Solution and Frequency Decomposition, TGRS 2026, Yihong Leng, et al.
 [[Code](https://github.com/SuperiorLeo/TGRS2026-Toward-Open-World-Spectral-Super-Resolution-With-Solution-and-Frequency-Decomposition)]
-[[PDF](https://arxiv.org/search/?query=Toward+Open-World+Spectral+Super-Resolution+With+Solution+and+Frequency+Decomposition&searchtype=title)]
+[[PDF](https://ieeexplore.ieee.org/document/11316172)]
 
 - Spectral-Spatial Fusion Mamba for Spectral Super-Resolution from Single RGB Image, Knowledge-Based Systems 2026, Wenjing Chen, et al.
 [[PDF](https://www.sciencedirect.com/science/article/pii/S0950705126010282)]
